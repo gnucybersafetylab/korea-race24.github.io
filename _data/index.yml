@@ -1,0 +1,18 @@
+# Index data
+main_title: "The 2nd F1Tenth Korea Championship."
+
+conference: "The International Conference on Control, Automation, and Systems (ICCAS) 2023"
+conference_url: "https://2023.iccas.org/"
+
+date: "2023, Oct 17th - Oct 20th"
+
+location: "Yeosu Venezia Hotel & Utop Marina Hotel, Korea"
+location_url: "https://goo.gl/maps/vY8KsTiYawoz1xCU7" 
+
+# Navigation bar icon urls
+twitter: "https://twitter.com/f1tenth"
+website: "https://f1tenth.org/"
+mailto: "mailto:f1tenth.korea@gmail.com"
+discourse: "https://f1tenth.discourse.group/t/iros-2021-f1tenth-competition/36"
+slack: "https://join.slack.com/t/f1tenthxkorea/shared_invite/zt-1ibqf5yjq-CkG_z1XRhsZgBsCoSy7JiA"
+github: "https://github.com/f1tenth"
