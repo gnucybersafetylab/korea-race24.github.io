@@ -12,7 +12,7 @@ base_url: registration.html
 
 **구글 폼으로 신청하기**
 
-To Be Announced
+***4월 30일 오픈 예정***
 
 <!-- **경기 참가자 용**
 

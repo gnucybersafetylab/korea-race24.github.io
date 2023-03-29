@@ -1,23 +1,45 @@
   - index: 0
     name:
-      ko-KR: "Johannes Betz"
-      en-US: "Johannes Betz"
+      ko-KR: "장동영<br>(조직위원장)"
+      en-US: "Dong Young Jang"
     company:
-      ko-KR: "Technical University of Munich"
-      en-US: "Technical University of Munich"
+      ko-KR: "서울과학기술대학교"
+      en-US: "Seoul National University of Science and Technology"
     department: 
-      ko-KR: "Department of Mobility Systems Engineering"
-      en-US: "Department of Mobility Systems Engineering"
+      ko-KR: "MSDE학과"
+      en-US: "Department of MSDE"
     position:
-      ko-KR: "Assistant Professor"
-      en-US: "Assistant Professor"
-    image: "images/organizer/Johannes.png"
-    website: "https://joebetz.science/"
-    email: "johannes.betz@tum.de"
-    first_elements: true
-    last_elements: false   
+      ko-KR: "명예교수"
+      en-US: "Emeritus Professor"
+    extra_info:
+      ko-KR: "한국전자기계융합기술원 원장"
+      en-US: "President of Korea Electronics-Machinery Convergence Technology Institute"
+    image: "images/organizer/장동영교수님.jpg"
+    website: "https://msde.seoultech.ac.kr/about_msde_/about_professor_/?togo=list&menu=2003&profidx=02224"
+    email: "dyjang@seoultech.ac.kr"
+    first_elements: true 
+    last_elements: false
 
   - index: 1
+    name:
+      ko-KR: "임묘택"
+      en-US: "Myotaeg Lim"
+    company:
+      ko-KR: "고려대학교"
+      en-US: "Korea University"
+    department: 
+      ko-KR: "전기전자공학과"
+      en-US: "Department of Electrical Engineering"
+    position:
+      ko-KR: "교수"
+      en-US: "Professor"
+    image: "images/organizer/임묘택교수님.jpg"
+    website: "http://cml.korea.ac.kr/"
+    email: "mlim@korea.ac.kr"
+    first_elements: false
+    last_elements: false
+
+  - index: 2
     name:
       ko-KR: "Rahul Mangharam"
       en-US: "Rahul Mangharam"
@@ -36,47 +58,25 @@
     first_elements: false
     last_elements: false   
 
-  - index: 2
-    name:
-      ko-KR: "장동영<br>(조직위원장)"
-      en-US: "Dong Young Jang"
-    company:
-      ko-KR: "서울과학기술대학교"
-      en-US: "Seoul National University of Science and Technology"
-    department: 
-      ko-KR: "MSDE학과"
-      en-US: "Department of MSDE"
-    position:
-      ko-KR: "명예교수"
-      en-US: "Emeritus Professor"
-    extra_info:
-      ko-KR: "한국전자기계융합기술원 원장"
-      en-US: "President of Korea Electronics-Machinery Convergence Technology Institute"
-    image: "images/organizer/장동영교수님.jpg"
-    website: "https://msde.seoultech.ac.kr/about_msde_/about_professor_/?togo=list&menu=2003&profidx=02224"
-    email: "dyjang@seoultech.ac.kr"
-    first_elements: false 
-    last_elements: false
-
   - index: 3
     name:
-      ko-KR: "임묘택"
-      en-US: "Myotaeg Lim"
+      ko-KR: "Johannes Betz"
+      en-US: "Johannes Betz"
     company:
-      ko-KR: "고려대학교"
-      en-US: "Korea University"
+      ko-KR: "Technical University of Munich"
+      en-US: "Technical University of Munich"
     department: 
-      ko-KR: "전기전자공학과"
-      en-US: "Department of Electrical Engineering"
+      ko-KR: "Department of Mobility Systems Engineering"
+      en-US: "Department of Mobility Systems Engineering"
     position:
-      ko-KR: "교수"
-      en-US: "Professor"
-    image: "images/organizer/임묘택교수님.jpg"
-    website: "http://cml.korea.ac.kr/"
-    email: "mlim@korea.ac.kr"
+      ko-KR: "Assistant Professor"
+      en-US: "Assistant Professor"
+    image: "images/organizer/Johannes.png"
+    website: "https://joebetz.science/"
+    email: "johannes.betz@tum.de"
     first_elements: false
-    last_elements: true
-  
+    last_elements: true   
+
   - index: 4
     name:
       ko-KR: "김진현"
@@ -114,8 +114,6 @@
     email: "kwonc@unist.ac.kr"
     first_elements: false
     last_elements: false
-
-
 
   - index: 6
     name:

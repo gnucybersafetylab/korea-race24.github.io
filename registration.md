@@ -11,7 +11,7 @@ This competition is open for everyone of all levels, everyone is welcome to part
 
 **Google Site Registration**
 
-To Be Announced
+***It will be open by April 30th***
 
 <!-- A form for race participants
 

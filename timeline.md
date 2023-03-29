@@ -7,17 +7,13 @@ base_url: timeline.html
 ---
 <br>
 
-*-Note: The schedule may be subject to change depending on circumstances.*
+***It will be open by April 30th***
+
+<!-- *-Note: The schedule may be subject to change depending on circumstances.* -->
 
 <br>
 
-| DATE | IN-PERSON COMPETITION |
-|:---|:---|
-| To Be Announced | Registration opens |
-| To Be Announced | Registration closes |
-| To Be Announced |Online, Introduction of all teams, Race overview, Track overview for in-person competition |
-| To Be Announced | Introduction to F1/10th Challenges , Lectures on Autonomous Driving Technology |
-| To Be Announced | Race Day(Time Trial, Head to Head) , Award Ceremony |
+
 
 <!-- | DATE | IN-PERSON COMPETITION |
 |:---|:---|
