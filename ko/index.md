@@ -31,7 +31,6 @@ ICCAS 2023는 대면 경쟁으로 대회를 진행합니다.
 <a href="https://2023.iccas.org/" class="image main"><img src="../images/iccas.png"  style="width: 25vw" alt="국제제어자동화로봇시스템학회" /></a>
 </center>
 <br>
-<br>
 <center>
-<a href="#" class="image main"><img src="../images/F1TENTH/f1tenth_korea_logo.jpg"  style="width: 25vw" alt="" /></a>
+<a href="#" class="image main"><img src="../images/F1TENTH/f1tenth_korea_logo.jpg"  style="width: 35vw" alt="" /></a>
 </center>

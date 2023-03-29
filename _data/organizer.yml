@@ -74,7 +74,7 @@
     image: "images/organizer/장동영교수님.jpg"
     website: "http://cml.korea.ac.kr/"
     email: "mlim@korea.ac.kr"
-    first_elements: false 
+    first_elements: false
     last_elements: true
   
   - index: 4

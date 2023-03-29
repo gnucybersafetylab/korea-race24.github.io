@@ -31,6 +31,6 @@ In-person competition: This variant targets participants who will travel to Yeos
 </center>
 <br>
 <center>
-<a href="#" class="image main"><img src="../images/F1TENTH/f1tenth_korea_logo.jpg"  style="width: 25vw" alt="" /></a>
+<a href="#" class="image main"><img src="../images/F1TENTH/f1tenth_korea_logo.jpg"  style="width: 35vw" alt="" /></a>
 </center>
 
