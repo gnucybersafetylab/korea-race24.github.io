@@ -31,9 +31,9 @@ If you want to observe without participating in the game, please registration th
 </center>
 
 ---
-<center class="actions">
+<!-- <center class="actions">
 	<a href="../participants.html" class="button">Participants</a>
-</center>
+</center> -->
 
 # Participants
 
