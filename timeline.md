@@ -18,7 +18,7 @@ base_url: timeline.html
 | Nov 30th - 23:59 KST (Extended)| Registration closes **(Extended to until the end of November.)** |
 | Nov 17th - 7pm KST |Online, Introduction of all teams, Race overview, Track overview for in-person competition |
 | Dec 12th | Introduction to F1/10th Challenges , Lectures on Autonomous Driving Technology |
-| Dec 13th | Race Day(Time Trial, Head to Head) , Award Ceremony |
+| Dec 13th | Race Day(Time Trial, Head to Head) , Award Ceremony 
 
 
 <!-- | DATE | IN-PERSON COMPETITION |
