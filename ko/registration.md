@@ -33,10 +33,10 @@ base_url: registration.html
 
 
 ---
-<center class="actions">
+<!-- <center class="actions">
 	<a href="../ko/participants.html" class="button">참가 현황</a>
 </center>
-
+ -->
 <!-- # Participants
 
 
