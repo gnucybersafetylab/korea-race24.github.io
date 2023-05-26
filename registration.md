@@ -11,9 +11,9 @@ This competition is open for everyone of all levels, everyone is welcome to part
 
 **Google Site Registration**
 
-***It will be open by April 30th***
+<!-- ***It will be open by April 30th*** -->
 
-<!-- A form for race participants
+A form for race participants
 
 For race registration and more information, sign up to participate in orientation and information session.
 (Note: One of the team members must register with [KSMTE2022](https://www.ksmte.kr/symposium/event_view.kin?main=41&sub=7&event=41) to participate.)
@@ -28,7 +28,7 @@ If you want to observe without participating in the game, please registration th
 
 <center class="actions">
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLScQSYzEP13Zn-cOotXE8zJqqIcgxc3a-l1ewxArfxTLi4GB6g/viewform?usp=sf_link" class="button">Registration for a observation</a>
-</center> -->
+</center>
 
 ---
 <!-- <center class="actions">
