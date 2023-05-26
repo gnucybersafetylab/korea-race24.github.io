@@ -16,7 +16,7 @@ This competition is open for everyone of all levels, everyone is welcome to part
 A form for race participants
 
 For race registration and more information, sign up to participate in orientation and information session.
-(Note: One of the team members must register with [KSMTE2022](https://www.ksmte.kr/symposium/event_view.kin?main=41&sub=7&event=41) to participate.)
+(Note: One of the team members must register with [ICCAS2023](https://2023.iccas.org/) to participate.)
 
 <center class="actions">
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSdHaTvOHH1Z5Aa7mLnPwxBua5eDl3LIYWjtoLe9xtU-uaKpKg/viewform?usp=sf_link" class="button">Registration for a race</a>
