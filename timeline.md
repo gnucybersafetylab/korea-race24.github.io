@@ -14,7 +14,7 @@ base_url: timeline.html
 
 | DATE | IN-PERSON COMPETITION |
 |:---|:---|
-| Oct 24th | Registration opens |
+| Apr 30th | Registration opens |
 | Nov 30th - 23:59 KST (Extended)| Registration closes **(Extended to until the end of November.)** |
 | Nov 17th - 7pm KST |Online, Introduction of all teams, Race overview, Track overview for in-person competition<br> 
 | Dec 12th | Introduction to F1/10th Challenges , Lectures on Autonomous Driving Technology |
