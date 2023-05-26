@@ -19,7 +19,7 @@ For race registration and more information, sign up to participate in orientatio
 (Note: One of the team members must register with [ICCAS2023](https://2023.iccas.org/) to participate.)
 
 <center class="actions">
-	<a href="https://docs.google.com/forms/d/e/1FAIpQLSdHaTvOHH1Z5Aa7mLnPwxBua5eDl3LIYWjtoLe9xtU-uaKpKg/viewform?usp=sf_link" class="button">Registration for a race</a>
+	<a href="https://docs.google.com/forms/d/1ycNog7lz3oYiwzHIJfmzt0CW0E1GGCBMy1FUQ7ij1AI/viewform?edit_requested=true" class="button">Registration for a race</a>
 </center>
 
 A form for race observers
@@ -27,7 +27,7 @@ A form for race observers
 If you want to observe without participating in the game, please registration through this link.
 
 <center class="actions">
-	<a href="https://docs.google.com/forms/d/e/1FAIpQLScQSYzEP13Zn-cOotXE8zJqqIcgxc3a-l1ewxArfxTLi4GB6g/viewform?usp=sf_link" class="button">Registration for a observation</a>
+	<a href="https://docs.google.com/forms/d/1A6zPXR0jw3rSxlnkt_N6jV9zW4JCAKfkoEUlPsglXUU/viewform?edit_requested=true" class="button">Registration for a observation</a>
 </center>
 
 ---
