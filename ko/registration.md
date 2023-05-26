@@ -12,30 +12,30 @@ base_url: registration.html
 
 **구글 폼으로 신청하기**
 
-***4월 30일 오픈 예정***
+<!-- ***4월 30일 오픈 예정*** -->
 
-<!-- **경기 참가자 용**
+**경기 참가자 용**
 
 경주 참가신청 및 자세한 정보를 보려면 오리엔테이션 및 정보 세션에 등록하세요.
-(Note : 팀원 중 1명은 [KSMTE2022](https://www.ksmte.kr/symposium/event_view.kin?main=41&sub=7&event=41)에 등록하셔야 참가 가능합니다.)
+(Note : 팀원 중 1명은 [ICCAS2023](https://2023.iccas.org/)에 등록하셔야 참가 가능합니다.)
 
 <center class="actions">
-	<a href="https://docs.google.com/forms/d/e/1FAIpQLSdHaTvOHH1Z5Aa7mLnPwxBua5eDl3LIYWjtoLe9xtU-uaKpKg/viewform?usp=sf_link" class="button">경주 참가 신청</a>
-</center> -->
+	<a href="https://docs.google.com/forms/d/1ycNog7lz3oYiwzHIJfmzt0CW0E1GGCBMy1FUQ7ij1AI/viewform?edit_requested=true" class="button">경주 참가 신청</a>
+</center>
 
-<!-- **일반 참가자 용**
+**일반 참가자 용**
 
 경주 관람신청 및 자세한 정보를 보려면 오리엔테이션 및 정보 세션에 등록하세요.
 
 <center class="actions">
-	<a href="https://docs.google.com/forms/d/e/1FAIpQLScQSYzEP13Zn-cOotXE8zJqqIcgxc3a-l1ewxArfxTLi4GB6g/viewform?usp=sf_link" class="button">일반 참가 신청</a>
+	<a href="https://docs.google.com/forms/d/1A6zPXR0jw3rSxlnkt_N6jV9zW4JCAKfkoEUlPsglXUU/viewform?edit_requested=true" class="button">일반 참가 신청</a>
 </center>
 
 
---- -->
-<!-- <center class="actions">
+---
+<center class="actions">
 	<a href="../ko/participants.html" class="button">참가 현황</a>
-</center> -->
+</center>
 
 <!-- # Participants
 
