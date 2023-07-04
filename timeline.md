@@ -27,7 +27,6 @@ base_url: timeline.html
 | May 25th | [Registration opens](https://docs.google.com/forms/d/1ycNog7lz3oYiwzHIJfmzt0CW0E1GGCBMy1FUQ7ij1AI/viewform?edit_requested=true) |
 | Aug 21th - 19:00 KST |Orientation (Online Meeting) <br> Meeting Link (To Be Determined.) <br> Demonstrate expectations, provision of simulation environment, prospective participants can ask questions |
 | Sep 1st - 23:59 KST | Registration closes |
-<!-- | Sep 4th - 23:59 KST | Registration closes | -->
 | Oct 17th | Track Setup & Teams Training <br> All Teams can use the racetrack after 6pm.|
 | Oct 18th | Teams Training <br> Qualification Session (18:00 KST)|
 | Oct 19th | Race day (10:00 KST) <br> Award Ceremony |
