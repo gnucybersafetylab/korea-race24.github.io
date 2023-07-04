@@ -48,11 +48,11 @@ navigation:
     text: "Live Stream"
     url: "stream.html"
     section: "stream"
-    display: false
+    display: true
 
   - result:
     text: "Result"
     url: "results.html"
     section: "result"
-    display: false
+    display: true
   
