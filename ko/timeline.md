@@ -18,7 +18,7 @@ base_url: timeline.html
 | Oct 18th | 팀 연습 <br> 자격 여부 확인 (18:00 KST)|
 | Oct 19th | 경주 대회 (10:00 KST) <br> 시상식 및 인터뷰|
 
-<br>
+
 
 <!--  | DATE | IN-PERSON COMPETITION |
 |:---|:---|
