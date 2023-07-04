@@ -18,7 +18,7 @@ navigation:
     text: "Program"
     url: "program.html"
     section: "program"
-    display: false
+    display: true
 
   - race_resource: 
     text: "Race Resource"
