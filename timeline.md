@@ -1,13 +1,12 @@
 ---
-title: Timeline
+title: TIMELINE 2ND F1TENTH KOREA CHAMPIONSHIP
 layout: page
 section: timeline
 language: en-US
 base_url: timeline.html
 ---
 <br>
-<center><h2> TIMELINE 2ND F1TENTH KOREA CHAMPIONSHIP </h2></center>
-<!-- <center># TIMELINE 2ND F1TENTH KOREA CHAMPIONSHIP </center>  -->
+
 
 <!-- ***It will be open by April 30th*** -->
 
