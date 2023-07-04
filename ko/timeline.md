@@ -7,7 +7,15 @@ base_url: timeline.html
 ---
 
 <br>
-To Be Determined.
+| DATE | IN-PERSON COMPETITION |
+|:---|:---:|
+| May 25th | [Registration opens](https://docs.google.com/forms/d/1ycNog7lz3oYiwzHIJfmzt0CW0E1GGCBMy1FUQ7ij1AI/viewform?edit_requested=true) |
+| Aug 21th <br> 19:00 KST |오리엔테이션 (온라인 미팅) <br> 미팅 링크 (To Be Determined.) <br> 대회 소개 및 QnA |
+| Sep 1st <br> 23:59 KST | 등록 마감 |
+| Sep 25th <br> 23:59 KST | 영상 제출: F1TENTH 차량으로 주행 시연|
+| Oct 17th | 트랙 설정 & 팀 연습 <br> 모든 팀은 오후 6시 이후에 경주장을 이용할 수 있습니다.|
+| Oct 18th | 팀 연습 <br> 자격 여부 확인 (18:00 KST)|
+| Oct 19th | 경주 대회 (10:00 KST) <br> 시상식 및 인터뷰|
 <!-- *-참고: 향후 추진계획은 상황에 따라 변경될 수 있습니다.* -->
 <!-- ***4월 30일 오픈 예정***
  -->
