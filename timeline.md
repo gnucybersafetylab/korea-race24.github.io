@@ -6,7 +6,8 @@ language: en-US
 base_url: timeline.html
 ---
 <br>
-# TIMELINE 2ND F1TENTH KOREA CHAMPIONSHIP
+<center> TIMELINE 2ND F1TENTH KOREA CHAMPIONSHIP </center> 
+======
 
 <!-- ***It will be open by April 30th*** -->
 
