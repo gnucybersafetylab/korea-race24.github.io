@@ -67,7 +67,7 @@ h2, h3, h4, h5, h6 {
       섀시: 1:10 스케일 차량으로 나열된 모든 섀시가 허용됩니다. 좋은 예로는 **Traxxas사의 1:10 자동차**(예: [TRA74054](https://traxxas.com/products/models/electric/ford-fiesta-st-rally), [TRA6804R](https://traxxas.com/products/models/electric/6804Rslash4x4platinum), [TRA68086](https://traxxas.com/products/models/electric/slash-4x4-tsm))이지만, 일반적으로 비슷한 치수의 모든 섀시가 허용됩니다. 4WD와 2WD 모두 허용됩니다.
 
     5. _주 컴퓨팅 장치_:
-        **Nvidia Jetson Xavier NX**, Nvidia Jetson NX와 동급(예: Nvidia Jetson TX2, Nvidia Jetson Nano) 또는 GPU 및 CPU 사양이 같거나 낮은 모든 것은 모두  허용됩니다. 또 다른 예로는 Raspberry Pi, Arduino, Beaglebone이 있습니다.
+        **Nvidia Jetson Xavier NX & Nvidia Orin NX (AGX)**, Nvidia Jetson NX와 동급(예: Nvidia Jetson TX2, Nvidia Jetson Nano) 또는 GPU 및 CPU 사양이 같거나 낮은 모든 것은 모두  허용됩니다. 또 다른 예로는 Raspberry Pi, Arduino, Beaglebone이 있습니다.
 
     6. _LiDAR_:
         [**Hokuyo UST-10LX**](https://www.hokuyo-aut.jp/search/single.php?serial=167), i동급 또는 그보다 낮은 사양의 모든 라이다를 허용합니다. 관찰된 주요 특성은 다음과 같습니다. 감지 범위(10m), 스캔 주파수(40Hz) 및 각도 분해능(0.25°)입니다.
