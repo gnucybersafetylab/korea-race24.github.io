@@ -37,8 +37,15 @@ base_url: registration.html
 	<a href="../ko/participants.html" class="button">참가 현황</a>
 </center>
  -->
-<!-- # Participants
 
+# 참가자
 
-<iframe width="100%" height="1024" src="../participants.html" frameborder="0"></iframe> -->
+<br>
+
+| 팀명 | 소속 | 팀원 |
+|:---|:---|:---|
+| Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
+| Tayo Eagles | 충북대학교 | 김건우, 김택림, 권도현 |
+| KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
+
 
