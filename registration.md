@@ -42,5 +42,7 @@ If you want to observe without participating in the game, please registration th
 | TEAM NAME | AFFILIATION | TEAM MEMBERS |
 |:---|:---|:---|
 | Black Crane | Inje University | Seongjun Kim, Hojae Lee, Sunyong Jeong |
+| Tayo Eagles | Chungbuk National University | GeonWoo Kim, TaekLim Kim, Dohyeon Kwon |
+| KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
 
 
