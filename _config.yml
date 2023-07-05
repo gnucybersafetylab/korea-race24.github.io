@@ -56,3 +56,8 @@ navigation:
     section: "result"
     display: true
   
+  - bootcamp:
+    text: "Bootcamp"
+    url: "bootcamp.html"
+    section: "bootcamp"
+    display: true
