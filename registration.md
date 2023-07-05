@@ -36,9 +36,7 @@ If you want to observe without participating in the game, please registration th
 </center> -->
 
 # Participants
-
 <br>
-
 | TEAM NAME | AFFILIATION | TEAM MEMBERS |
 |:---|:---|:---|
 | Black Crane | Inje University | Seongjun Kim, Hojae Lee, Sunyong Jeong |
