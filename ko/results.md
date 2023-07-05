@@ -10,7 +10,8 @@ base_url: results.html
 
 <br>
 <center>
-<img src="../images/result_tt.png"  style="width: 80%" alt="Time Trial" />
+To Be Determined.
+<!-- <img src="../images/result_tt.png"  style="width: 80%" alt="Time Trial" /> -->
 </center>
 <br>
 
@@ -18,7 +19,9 @@ base_url: results.html
 
 <br>
 <center>
-<img src="../images/result_bracket.png"  style="width: 80%" alt="Tournament Bracket" />
+To Be Determined.
+
+<!-- <img src="../images/result_bracket.png"  style="width: 80%" alt="Tournament Bracket" /> -->
 </center>
 <br>
 
@@ -26,6 +29,8 @@ base_url: results.html
 
 <br>
 <center>
-<img src="../images/result_hth.png"  alt="Head to Head" />
+To Be Determined.
+
+<!-- <img src="../images/result_hth.png"  alt="Head to Head" /> -->
 </center>
 <br>
