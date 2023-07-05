@@ -40,8 +40,6 @@ base_url: registration.html
 
 # 참가자
 
-<br>
-
 | 팀명 | 소속 | 팀원 |
 |:---|:---|:---|
 | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
