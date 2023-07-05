@@ -10,7 +10,7 @@ base_url: timeline.html
 <br>
 
 | DATE | IN-PERSON COMPETITION |
-|:---|:---|
+|:---|:---:|
 | May 25th | [참가자 등록 시작](https://docs.google.com/forms/d/1ycNog7lz3oYiwzHIJfmzt0CW0E1GGCBMy1FUQ7ij1AI/viewform?edit_requested=true) |
 | Aug 21th <br> 19:00 KST | 오리엔테이션 (온라인 미팅) <br> 미팅 링크 (To Be Determined.) <br> 대회 소개 및 QnA |
 | Sep 1st <br> 23:59 KST | 등록 마감 |
