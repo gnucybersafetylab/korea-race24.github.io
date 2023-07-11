@@ -1,4 +1,4 @@
-kramdown:
+ramdown:
   header_offset: 2
 
 navigation:
@@ -48,16 +48,17 @@ navigation:
     text: "Live Stream"
     url: "stream.html"
     section: "stream"
-    display: true
+    display: false
 
   - result:
     text: "Result"
     url: "results.html"
     section: "result"
-    display: true
+    display: false
   
   - bootcamp:
     text: "Bootcamp"
     url: "bootcamp.html"
     section: "bootcamp"
     display: true
+  
