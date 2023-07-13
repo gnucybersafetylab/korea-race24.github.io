@@ -8,4 +8,4 @@ base_url: bootcamp.html
 ---
 
 
-## 현재 준비중 입니다.
+<span class="image"><img src="../images/F1TENTH/bootcamp.png" style="width: 80vw" alt="" /></span>
