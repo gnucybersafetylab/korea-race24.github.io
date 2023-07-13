@@ -8,4 +8,4 @@ base_url: bootcamp.html
 ---
 
 
-<span class="image"><img src="../images/F1TENTH/bootcamp.png" style="width: 80vw" alt="" /></span>
+<span class="image fit"><img src="../images/F1TENTH/bootcamp.png" alt="" /></span>
