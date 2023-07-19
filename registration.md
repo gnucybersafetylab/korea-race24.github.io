@@ -42,5 +42,6 @@ If you want to observe without participating in the game, please registration th
 | Black Crane | Inje University | Seongjun Kim, Hojae Lee, Sunyong Jeong |
 | Tayo Eagles | Chungbuk National University | GeonWoo Kim, TaekLim Kim, Dohyeon Kwon |
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
-
+| ICHTHUS | Soongsil University | Min Kim, JinSeob Jung, ByungJi Kim |
+| ICHTHUS2 | Soongsil University | Seryun Kang, MinHyuk Jeon, Hyunkyu Lim |
 
