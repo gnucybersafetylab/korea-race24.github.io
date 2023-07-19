@@ -45,5 +45,7 @@ base_url: registration.html
 | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
 | Tayo Eagles | 충북대학교 | 김건우, 김택림, 권도현 |
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
+| ICHTHUS | 숭실대학교 | 김민, 정진섭, 김병지 |
+| ICHTHUS2 | 숭실대학교 | 강세륜, 전민혁, 임현규 |
 
 
