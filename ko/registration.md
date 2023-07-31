@@ -47,5 +47,7 @@ base_url: registration.html
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
 | ICHTHUS | 숭실대학교 | 김민, 정진섭, 김병지 |
 | ICHTHUS2 | 숭실대학교 | 강세륜, 전민혁, 임현규 |
+| HMCar | 울산과학기술원 | 김광록, 강경태, 류정상, 김정빈 |
+| TigerOx | 경북대학교 | 박수용, 최윤도, 정세빈, 김현정, 이찬혁 |
 
 
