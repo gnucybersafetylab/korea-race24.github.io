@@ -44,4 +44,5 @@ If you want to observe without participating in the game, please registration th
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
 | ICHTHUS | Soongsil University | Min Kim, JinSeob Jung, ByungJi Kim |
 | ICHTHUS2 | Soongsil University | Seryun Kang, MinHyuk Jeon, Hyunkyu Lim |
-
+| HMCar | UNIST | Kwangrok Kim, Kyungtae Kang, Jeongsang Ryu, Jungbin Kim |
+| TigerOx | Kyungpook National University | Suyong Park, Yundo Choi, Sebin Jung, Hyeonjeong Kim, ChanHyuk Lee |
