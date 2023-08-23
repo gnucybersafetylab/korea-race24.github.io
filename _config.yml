@@ -1,4 +1,4 @@
-ramdown:
+kramdown:
   header_offset: 2
 
 navigation:
@@ -55,10 +55,11 @@ navigation:
     url: "results.html"
     section: "result"
     display: false
-  
+
   - bootcamp:
     text: "Bootcamp"
     url: "bootcamp.html"
     section: "bootcamp"
-    display: true
+    display: false
+
   
