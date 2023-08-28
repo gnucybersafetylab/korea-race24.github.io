@@ -46,3 +46,9 @@ If you want to observe without participating in the game, please registration th
 | ICHTHUS2 | Soongsil University | Seryun Kang, MinHyuk Jeon, Hyunkyu Lim |
 | HMCar | UNIST | Kwangrok Kim, Kyungtae Kang, Jeongsang Ryu, Jungbin Kim |
 | TigerOx | Kyungpook National University | Suyong Park, Yundo Choi, Sebin Jung, Hyeonjeong Kim, ChanHyuk Lee |
+| Gudakdary | Chung-Ang University | Kwankyun Byeon, Jiwon Seo, Hojin Lee, Eunji Lee, jonggeon Lim |
+| INHARobo | Inha University | Dongmin Jang, Seungjun Song, Mingyo Kang |
+| AART | Kumoh National Institute of Technology | Saugat Shahi, Jang In sik, Louise Tan, Kim yujin, Lee heoncheol |
+| SAI | Kangwon National University | Youngwoo lee, Kangho Ko, Taehoon Yoon, Sua Kim |
+| CML | Korea University | Hyeongrae Cho, Jiwon Kim, Sangryul Baek, Hyunah Kim |
+| AGA-CML | Korea University | Garam Nam, Subin Shin, Soorin Cho, Mintaek Oh, Jihwan Mo |
