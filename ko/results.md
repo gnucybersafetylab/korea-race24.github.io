@@ -6,7 +6,9 @@ language: ko-KR
 base_url: results.html
 ---
 
-<br>
+# Podium Ceremony
+
+
 | 순위 | 수상 | 부상 |
 |:---|:---|:---|
 | 대상 | 한국자동차연구원 원장상 | 500만원 |
