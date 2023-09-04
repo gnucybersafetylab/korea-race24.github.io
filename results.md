@@ -10,9 +10,9 @@ base_url: results.html
 
 | Ranking | Award | Prize |
 |:---|:---|:---|
-| Grand Pize | Korea Automotive Research Institute Director's Award | 5,000,000 KRW |
-| 1st Place Prize | ICCAS Society President's Award | 1,000,000 KRW |
-| 2nd Place Prize | Director of Korea Institute of Electronics and Convergence Technology | 1,000,000 KRW |
+| Grand Pize | KATECH | 5,000,000 KRW |
+| 1st Place Prize | ICCAS | 1,000,000 KRW |
+| 2nd Place Prize | KEMCTI | 1,000,000 KRW |
 | 3rd Place Prize | UNIST Future Mobility Center | Worth 5,000,000 KRW (autonomous vehicle components or prize money) |
 | 4th | Sonnet | F1Tenth autonomous vehicle (Worth 4,000,000 KRW) |
 | 5th | GM | GM Goods |
