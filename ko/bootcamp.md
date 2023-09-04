@@ -10,6 +10,6 @@ base_url: bootcamp.html
 
 <span class="image fit"><img src="../images/F1TENTH/bootcamp.png" alt="" /></span>
 <br>
-| DATE | | 
-|:---|:---:|
+| DATE | Bootcamp| 
+|:---|:---|
 | Sep 16th | 기술교류회 |
