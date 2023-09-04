@@ -30,6 +30,8 @@ If you want to observe without participating in the game, please registration th
 	<a href="https://docs.google.com/forms/d/1A6zPXR0jw3rSxlnkt_N6jV9zW4JCAKfkoEUlPsglXUU/viewform?edit_requested=true" class="button">Registration for a observation</a>
 </center>
 
+If you have registered for participation but the list below is not updated, please contact us at f1tenth.korea@gmail.com.
+
 ---
 <!-- <center class="actions">
 	<a href="../participants.html" class="button">Participants</a>
@@ -52,3 +54,13 @@ If you want to observe without participating in the game, please registration th
 | SAI | Kangwon National University | Youngwoo lee, Kangho Ko, Taehoon Yoon, Sua Kim |
 | CML | Korea University | Hyeongrae Cho, Jiwon Kim, Sangryul Baek, Hyunah Kim |
 | AGA-CML | Korea University | Garam Nam, Subin Shin, Soorin Cho, Mintaek Oh, Jihwan Mo |
+| BTS | Soongsil University | Younghoon Kwon, Sungyoon Kim, Soomin Kim |
+| SSUWOONG | Soongsil University | Junyoung Park, Minwoo Lee, Junho Lee |
+| ATP | Inje University | Jihong Ryu, Heechul Kim, Jiwoo Seo, Seokwon Seo |
+| MOVE | Inje University | Keonmin Cha, Park Sehun, Kim Seongwoo, Kim Minjoon |
+| QueenCar | GyeongSang National University | Jo Mina, Lee Juho, Lee Hoyun, Jo Sumin |
+| Breath | Handong Global University | Wonbin Lee, Sechan Park, Sunhwan Lee |
+| IDEA_LAB | Gyeongsang National University | Myungjun Kim, Younghoon Kim, Jihong Park, Sunwoong Moon |
+| ENERNET | National Taipei University of Technology  | Shangyen Lee, Shangtse Lee |
+| GROMIT | Sookmyung Women's University  | Boin Jung, Kyungeun Kim, Yeonji Ryu, Sungbin Lee, Youngseo Cho |
+
