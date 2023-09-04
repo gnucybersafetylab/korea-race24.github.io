@@ -8,7 +8,7 @@ base_url: results.html
 
 <br>
 |Ranking|Award|Prize|
-|:---:|:---:|:---:|
+|:---|:---:|:---:|
 |Grand Pize|Korea Automotive Research Institute Director's Award|5 million won|
 |1st Place Prize|ICCAS Society President's Award|1 million won|
 |2nd Place Prize|Director of Korea Institute of Electronics and Convergence Technology|1 million won|
