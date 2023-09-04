@@ -54,7 +54,7 @@ navigation:
     text: "Result"
     url: "results.html"
     section: "result"
-    display: false
+    display: true
 
   - bootcamp:
     text: "Bootcamp"
