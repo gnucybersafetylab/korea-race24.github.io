@@ -13,4 +13,4 @@ base_url: bootcamp.html
 
 | DATE | |
 |:---|:---:|
-| Sep 16th |  기술교류회 |
+| Sep 16th |  Technology Exchange Conference |
