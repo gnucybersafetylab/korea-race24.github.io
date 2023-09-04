@@ -31,6 +31,7 @@ base_url: registration.html
 	<a href="https://docs.google.com/forms/d/1A6zPXR0jw3rSxlnkt_N6jV9zW4JCAKfkoEUlPsglXUU/viewform?edit_requested=true" class="button">일반 참가 신청</a>
 </center>
 
+만약 참가 신청을 했지만 아래 목록이 업데이트되지 않은 경우 f1tenth.korea@gmail.com로 문의하세요.
 
 ---
 <!-- <center class="actions">
@@ -55,5 +56,14 @@ base_url: registration.html
 | SAI | 강원대학교 | 이영우, 고강호, 윤태훈, 김수아 |
 | CML | 고려대학교 | 조형래, 김지원, 백상률, 김현아 |
 | AGA-CML | 고려대학교 | 남가람, 신수빈, 조수린, 오민택, 모지환 |
+| BTS | 숭실대학교 | 권영훈, 김성윤, 김수민 |
+| SSUWOONG | 숭실대학교 | 박준영, 이민우, 이준호 |
+| ATP | 인제대학교 | 류지홍, 김희철, 서지우, 서석원 |
+| MOVE | 인제대학교 | 차건민, 박세훈, 김성우, 김민준 |
+| QueenCar | 경상국립대학교 | 조민아, 이주호, 이호윤, 조수민 |
+| Breath | 한동대학교 | 이원빈, 박세찬, 이선환 |
+| IDEA_LAB | 경상국립대학교 | 김명준, 김영훈, 박지홍, 문선웅 |
+| ENERNET | National Taipei University of Technology  | Shangyen Lee, Shangtse Lee |
+| GROMIT | 숙명여자대학교  | 정보인, 김경은, 류연지, 이성빈, 조영서 |
 
 
