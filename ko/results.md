@@ -38,13 +38,13 @@ To Be Determined.
 </center>
 <br>
 
-# Head to Head
+<!-- # Head to Head
 
 <br>
 <center>
 To Be Determined.
 
 <!-- <img src="../images/result_hth.png"  alt="Head to Head" /> -->
-</center>
-<br>
+<!-- </center>
+<br> --> -->
 
