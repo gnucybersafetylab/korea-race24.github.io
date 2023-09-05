@@ -31,7 +31,6 @@ base_url: registration.html
 	<a href="https://docs.google.com/forms/d/1A6zPXR0jw3rSxlnkt_N6jV9zW4JCAKfkoEUlPsglXUU/viewform?edit_requested=true" class="button">일반 참가 신청</a>
 </center>
 
-만약 참가 신청을 했지만 아래 목록이 업데이트되지 않은 경우 f1tenth.korea@gmail.com로 문의하세요.
 
 ---
 <!-- <center class="actions">
@@ -40,6 +39,8 @@ base_url: registration.html
  -->
 
 # 참가자
+
+만약 참가 신청을 했지만 아래 목록이 업데이트되지 않은 경우 f1tenth.korea@gmail.com로 문의하세요.
 
 | 팀명 | 소속 | 팀원 |
 |:---|:---|:---|
