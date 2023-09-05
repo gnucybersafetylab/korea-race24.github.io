@@ -1,12 +1,16 @@
 ---
-title: 부트캠프 
-short_title: 부트캠프
+title: 이벤트 
+short_title: 이벤트
 layout: page
-section: Bootcamp
+section: Event
 language: ko-KR
 base_url: bootcamp.html
 ---
 
+| DATE | Event| 
+|:---|:---|
+| Oct 8th~9th | Bootcamp |
+| Sep 16th | 기술교류회 |
 
 <span class="image fit"><img src="../images/F1TENTH/bootcamp.png" alt="" /></span>
 <br>
