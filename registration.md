@@ -30,7 +30,6 @@ If you want to observe without participating in the game, please registration th
 	<a href="https://docs.google.com/forms/d/1A6zPXR0jw3rSxlnkt_N6jV9zW4JCAKfkoEUlPsglXUU/viewform?edit_requested=true" class="button">Registration for a observation</a>
 </center>
 
-If you have registered for participation but the list below is not updated, please contact us at f1tenth.korea@gmail.com.
 
 ---
 <!-- <center class="actions">
@@ -38,6 +37,8 @@ If you have registered for participation but the list below is not updated, plea
 </center> -->
 
 # Participants
+
+If you have registered for participation but the list below is not updated, please contact us at f1tenth.korea@gmail.com.
 
 | TEAM NAME | AFFILIATION | TEAM MEMBERS |
 |:---|:---|:---|
