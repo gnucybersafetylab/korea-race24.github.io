@@ -57,9 +57,9 @@ navigation:
     display: true
 
   - bootcamp:
-    text: "Bootcamp"
+    text: "Event"
     url: "bootcamp.html"
-    section: "bootcamp"
+    section: "Event"
     display: true
 
   
