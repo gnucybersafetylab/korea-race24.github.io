@@ -132,4 +132,42 @@
     website: "https://software.smu.ac.kr/software/faculty/faculty.do?mode=view&empNo=11329735&pager.offset=0&pagerLimit=20"
     email: "paeds915@smu.ac.kr"
     first_elements: false 
-    last_elements: true
+    last_elements: false
+  
+  - index: 7
+    name:
+      ko-KR: "김강희"
+      en-US: "Kang Hee Kim"
+    company:
+      ko-KR: "숭실대학교"
+      en-US: "Soongsil University"
+    department: 
+      ko-KR: "스마트시스템소프트웨어학과"
+      en-US: "Department of Smart System Software"
+    position:
+      ko-KR: "부교수"
+      en-US: "Associate Professor"
+    image: "images/organizer/김강희교수님.png"
+    website: "https://sites.google.com/view/misysssu/members/prof-kanghee-kim"
+    email: "khkim@ssu.ac.kr"
+    first_elements: false 
+    last_elements: true    
+
+  - index: 8
+    name:
+      ko-KR: "심주용"
+      en-US: "Joo Yong Sim"
+    company:
+      ko-KR: "숙명여대학교"
+      en-US: "Sookmyung Women's University"
+    department: 
+      ko-KR: "기계시스템학과"
+      en-US: "Department of Mechanical System Engineering"
+    position:
+      ko-KR: "조교수"
+      en-US: "Assistant Professor"
+    image: "images/organizer/심주용교수님.png"
+    website: "https://sim-research.org/members/"
+    email: "jysim@sookmyung.ac.kr"
+    first_elements: true 
+    last_elements: true    
