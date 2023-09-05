@@ -10,12 +10,12 @@ base_url: results.html
 
 | Ranking | Award | Team | Prize |
 |:---|:---|:---|:---|
-| Grand Pize | KATECH | | 5,000,000 KRW |
-| 1st Place Prize | ICCAS | | 1,000,000 KRW |
-| 2nd Place Prize | KEMCTI | | 1,000,000 KRW |
-| 3rd Place Prize | UNIST Future Mobility Center | | Worth 5,000,000 KRW (autonomous vehicle components or prize money) |
-| 4th | Sonnet | | F1Tenth autonomous vehicle (Worth 4,000,000 KRW) |
-| 5th | GM | | GM Goods |
+| Grand Pize | KATECH |TBD | 5,000,000 KRW |
+| 1st Place Prize | ICCAS | TBD| 1,000,000 KRW |
+| 2nd Place Prize | KEMCTI |TBD | 1,000,000 KRW |
+| 3rd Place Prize | UNIST Future Mobility Center | TBD| Worth 5,000,000 KRW (autonomous vehicle components or prize money) |
+| 4th | Sonnet | TBD| F1Tenth autonomous vehicle (Worth 4,000,000 KRW) |
+| 5th | GM | TBD| GM Goods |
 
 # Time Trial
 
@@ -42,4 +42,4 @@ To Be Determined.
 <!-- <img src="../images/result_hth.png"  alt="Head to Head" /> -->
 <!-- To Be Determined.
 </center>
-<br> --> -->
+<br> --> 
