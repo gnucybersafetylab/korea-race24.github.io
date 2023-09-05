@@ -28,8 +28,8 @@ base_url: timeline.html
 | Sep 8th <br> 19:00 KST |Orientation (Online Meeting) <br> [Meeting Link](https://unist-kr.zoom.us/j/87812180691) <br> Demonstrate expectations, prospective participants can ask questions |
 | Sep 16th | Technology Exchange Conference |
 | Sep 17th <br> 23:59 KST | Registration closes |
-| Oct 17th | Track Setup & Teams Training <br> All Teams can use the racetrack after 6pm.|
-| Oct 18th | Teams Training <br> Qualification Session (18:00 KST)|
+| Oct 17th | Track Setup & Teams Training <br> All Teams can use the racetrack after 3pm.|
+| Oct 18th | Teams Training <br> Qualification Session (14:00 KST)|
 | Oct 19th | Race day (10:00 KST) <br> Award Ceremony |
 
 <!-- competition<br> 
