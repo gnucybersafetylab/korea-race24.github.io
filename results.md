@@ -35,11 +35,11 @@ To Be Determined.
 </center>
 <br>
 
-# Head to Head
+<!-- # Head to Head
 
 <br>
 <center>
 <!-- <img src="../images/result_hth.png"  alt="Head to Head" /> -->
-To Be Determined.
+<!-- To Be Determined.
 </center>
-<br>
+<br> --> -->
