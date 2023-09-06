@@ -58,7 +58,7 @@ qualification and will be automatically registered to both races.
 1. **Vehicle Class** allows only cars that meet the following constraints:
 
     1. The vehicle is constructed according to the official [bill of materials](https://f1tenth.readthedocs.io/en/stable/getting_started/build_car/bom.html). The teams are allowed to use components of similar or lower specifications.
-    2. Each vehicle will be inspected as a part of qualification whether it meets the criteria. In case the criteria are not met, the vehicle is moved to the Open Class.
+    2. Each vehicle will be inspected as a part of qualification whether it meets the criteria. In case the criteria are not met, the vehicle cannot participate.
     3. **F1TENTH Competition is a battle of algorithms. Any hardware that should turn the odds in your favor is not allowed**.
     4. _Chassis_:
         Any chassis listed as *1:10 scale* car is allowed. Preferably **1:10 Traxxas** (e.g., [TRA74054](https://traxxas.com/products/models/electric/ford-fiesta-st-rally), [TRA6804R](https://traxxas.com/products/models/electric/6804Rslash4x4platinum), [TRA68086](https://traxxas.com/products/models/electric/slash-4x4-tsm)), but generally, any chassis with similar dimensions is allowed. Both 4WD and 2WD are permitted.
@@ -143,7 +143,7 @@ There will be two results tables based on these criteria.
 
 ### 2.5.1 General
 
-1. The Head-to-Head race is a race with two cars on the track at the same time.
+1. The Head-to-Head race is a race with two cars on the track at the same time on the same track but from opposite starting points.
 
 2. The racetrack has the same layout as in the training and qualification sessions.
 
@@ -189,6 +189,6 @@ There will be two results tables based on these criteria.
 
 ### 2.5.4 Evaluation
 
-1. The first car that completes 10 laps wins.
+1. The first car that completes 8 laps wins.
 2. There will be two referees, one for each car.
 3. Each referee counts the lap for one car and is responsible for identifying the crashes.
