@@ -27,10 +27,10 @@ ICCAS 2023는 대면 경쟁으로 대회를 진행합니다.
 대면 경쟁: 이 형태는 한국의 전라남도 여수시 에서 대면으로 대회에 참가하는 참가자를 대상으로 합니다. 각 팀은 자신의 소프트웨어와 함께 실제 F1TENTH 자동차를 가져옵니다. 주최 측은 경주 설정(규칙, 제출, 지침), 트랙, 관련 인프라를 제공하고 레이스 자체를 구성합니다.
 <br>
 <br>
-<center>
+<!-- <center>
 <a href="https://2023.iccas.org/" class="image main"><img src="../images/iccas.png"  style="width: 25vw" alt="국제제어자동화로봇시스템학회" /></a>
 </center>
 <br>
 <center>
 <a href="#" class="image main"><img src="../images/F1TENTH/f1tenth_korea_logo.jpg"  style="width: 35vw" alt="" /></a>
-</center>
+</center> -->
