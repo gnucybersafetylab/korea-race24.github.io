@@ -77,8 +77,8 @@ qualification and will be automatically registered to both races.
           -Requires Balance Charge support<br>
           -Requires charging safety device function<br>
           -Recommended model: [IMAX B6](http://rclife.co.kr/product/product_detail.asp?product_number=109032)<br>
-          -[Recommended purchase of charging cable (XT90](http://rclife.co.kr/product/product_detail.asp?product_number=150352)<br>
-          <br> <span class="image fit"><img src="../images/regulator_e.PNG" style="width: 20vw", alt="regulator"></span>
+          -[Recommended purchase of charging cable (XT90)](http://rclife.co.kr/product/product_detail.asp?product_number=150352)<br>
+          <br> [image](../images/regulator_e.PNG)
     10. _Other sensors_:
         Other sensors (IMUs, encoders, custom electronic speed controllers) are not restricted. Indoor GPS sensors (e.g. Marvelmind) are not allowed. In addition, in the spirit of the competition, components with significant internal computation power are prohibited.
 
