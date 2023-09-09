@@ -26,7 +26,7 @@ ICCAS 2023 is a In-person competition.
 In-person competition: This variant targets participants who will travel to Yeosu-si Jeollanam-do of the Republic of Korea . Each team will bring their own physical F1TENTH car with their software. The organizers provide the race setup (rules, submissions, guidelines), the track, related infrastructure and organize the race itself.
 <br>
 
-[Orientation Slides](../static_data/F1Tenth_Orientation_230908.pptx)
+
 <!-- <br>
 <center>
 <a href="https://2023.iccas.org/" class="image main"><img src="../images/iccas.png"  style="width: 25vw" alt="국제제어자동화로봇시스템학회" /></a>
