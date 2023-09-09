@@ -71,8 +71,8 @@ qualification and will be automatically registered to both races.
     8. _Engine_:
         Only brushless DC motors are allowed. The [**Velineon 3500 kV**](https://traxxas.com/products/parts/motors/velineon3500motor), its equivalent, or anything of lower specifications regarding power and torque are allowed.
     9. _Battery_:<br>
-        -a 4S Battery size: 48*38*145, capacity: 5000mAh, connection jack: XT90, [Battery recommended model link](http://rclife.co.kr/product/product_detail.asp?product_number=179110), [ Requires purchase of Li-Po extension cable](http://rclife.co.kr/product/product_detail.asp?product_number=101217)<br>
-        -b lithium polymer battery charger instructions:<br>
+        a) 4S Battery size: 48*38*145, capacity: 5000mAh, connection jack: XT90, [Battery recommended model link](http://rclife.co.kr/product/product_detail.asp?product_number=179110), [ Requires purchase of Li-Po extension cable](http://rclife.co.kr/product/product_detail.asp?product_number=101217)<br>
+        b) lithium polymer battery charger instructions:<br>
           -Multipurpose battery charger<br>
           -Requires Balance Charge support<br>
           -Requires charging safety device function<br>
