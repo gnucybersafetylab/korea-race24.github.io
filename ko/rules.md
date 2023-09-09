@@ -78,8 +78,8 @@ h2, h3, h4, h5, h6 {
     8. _구동계_:
         브러시리스 DC 모터만 허용됩니다. [**Velineon 3500 kV**](https://traxxas.com/products/parts/motors/velineon3500motor), 동급 또는 전력 및 토크에 관한 더 낮은 사양의 모든 것을 허용됩니다.
     9. _Battery_:<br>
-        -a 4S 배터리 크기: 48*38*145, 용량: 5000mAh, 연결 잭: XT90, [배터리 권장 모델 링크](http://rclife.co.kr/product/product_detail.asp?product_number=179110), [Li-Po 연장 케이블 구매 필요](http://rclife.co.kr/product/product_detail.asp?product_number=101217)<br>
-        -b 리튬 폴리머 배터리 충전기 안내: <br>
+        a) 4S 배터리 크기: 48*38*145, 용량: 5000mAh, 연결 잭: XT90, [배터리 권장 모델 링크](http://rclife.co.kr/product/product_detail.asp?product_number=179110), [Li-Po 연장 케이블 구매 필요](http://rclife.co.kr/product/product_detail.asp?product_number=101217)<br>
+        b) 리튬 폴리머 배터리 충전기 안내: <br>
           -다용도 배터리 충전기 <br>
           -Balance Charge 지원 필요<br>
           -충전 안전장치 기능 필요<br>
