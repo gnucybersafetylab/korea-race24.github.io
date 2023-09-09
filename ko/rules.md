@@ -77,15 +77,15 @@ h2, h3, h4, h5, h6 {
 
     8. _구동계_:
         브러시리스 DC 모터만 허용됩니다. [**Velineon 3500 kV**](https://traxxas.com/products/parts/motors/velineon3500motor), 동급 또는 전력 및 토크에 관한 더 낮은 사양의 모든 것을 허용됩니다.
-    9. _Battery_:
-        -a 4S 배터리 크기: 48*38*145, 용량: 5000mAh, 연결 잭: XT90, [배터리 권장 모델 링크](http://rclife.co.kr/product/product_detail.asp?product_number=179110), [Li-Po 연장 케이블 구매 필요](http://rclife.co.kr/product/product_detail.asp?product_number=101217)
-        -b 리튬 폴리머 배터리 충전기 안내: 
-          -다용도 배터리 충전기
-          -Balance Charge 지원 필요
-          -충전 안전장치 기능 필요
-          -권장 모델: [IMAX B6](http://rclife.co.kr/product/product_detail.asp?product_number=109032)
-          -[충전케이블 구매 권장 (XT90](http://rclife.co.kr/product/product_detail.asp?product_number=150352)
-          <br> <img src="../images/regulator.PNG" style="width: 20vw", alt="regulator">
+    9. _Battery_:<br>
+        -a 4S 배터리 크기: 48*38*145, 용량: 5000mAh, 연결 잭: XT90, [배터리 권장 모델 링크](http://rclife.co.kr/product/product_detail.asp?product_number=179110), [Li-Po 연장 케이블 구매 필요](http://rclife.co.kr/product/product_detail.asp?product_number=101217)<br>
+        -b 리튬 폴리머 배터리 충전기 안내: <br>
+          -다용도 배터리 충전기 <br>
+          -Balance Charge 지원 필요<br>
+          -충전 안전장치 기능 필요<br>
+          -권장 모델: [IMAX B6](http://rclife.co.kr/product/product_detail.asp?product_number=109032)<br>
+          -[충전케이블 구매 권장 (XT90](http://rclife.co.kr/product/product_detail.asp?product_number=150352)<br>
+          <br> <span class="image fit"><img src="../images/regulator.PNG" style="width: 20vw", alt="regulator"></span>
     10. _기타 센서_:
         기타 센서(IMU, 인코더, 맞춤형 전자 속도 컨트롤러)는 제한되지 않습니다. 실내 GPS 센서(예: Marvelmind)는 허용되지 않습니다. 또한, 경주를 위해 내부 연산력을 빠르게 하는 부품은 금지됩니다.
 
