@@ -8,7 +8,7 @@ base_url: race_resources.html
 ---
 
 경주에 대한 정보(규칙, 점수 산출 방법, 시뮬레이션 환경, 트랙 데이터)는 여기에서 확인 할 수 있습니다 
-<!-- [오리엔테이션 슬라이드 (8월 21일 오픈 예정)](../static_data/KSTME2022_Orientation.pdf) -->
+[Orientation Slides](../static_data/F1Tenth_Orientation_230908.pptx)
 - [오리엔테이션 슬라이드 (8월 21일 오픈 예정)]
 - [대회 규정]({% link ko/rules.md %})
 
