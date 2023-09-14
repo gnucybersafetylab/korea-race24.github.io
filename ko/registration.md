@@ -47,8 +47,8 @@ base_url: registration.html
 | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
 | Tayo Eagles | 충북대학교 | 김건우, 김택림, 권도현 |
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
-| ICHTHUS | 숭실대학교 | 김민, 정진섭, 김병지 |
-| ICHTHUS2 | 숭실대학교 | 강세륜, 전민혁, 임현규 |
+| ICHTHUS | 숭실대학교 | 정진섭, 강세륜, 임현규 |
+| ICHTHUS2 | 숭실대학교 | 김민, 김병지, 전민혁 |
 | HMCar | 울산과학기술원 | 김광록, 강경태, 류정상, 김정빈 |
 | TigerOx | 경북대학교 | 박수용, 최윤도, 정세빈, 김현정, 이찬혁 |
 | Gudakdary | 중앙대학교 | 변관균, 서지원, 이호진, 이은지, 임종건 |
