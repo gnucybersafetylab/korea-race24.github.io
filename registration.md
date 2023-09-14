@@ -45,8 +45,8 @@ If you have registered for participation but the list below is not updated, plea
 | Black Crane | Inje University | Seongjun Kim, Hojae Lee, Sunyong Jeong |
 | Tayo Eagles | Chungbuk National University | GeonWoo Kim, TaekLim Kim, Dohyeon Kwon |
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
-| ICHTHUS | Soongsil University | Min Kim, JinSeob Jung, ByungJi Kim |
-| ICHTHUS2 | Soongsil University | Seryun Kang, MinHyuk Jeon, Hyunkyu Lim |
+| ICHTHUS | Soongsil University | JinSeob Jung, Seryun Kang, Hyunkyu Lim |
+| ICHTHUS2 | Soongsil University | Min Kim, ByungJi Kim, MinHyuk Jeon |
 | HMCar | UNIST | Kwangrok Kim, Kyungtae Kang, Jeongsang Ryu, Jungbin Kim |
 | TigerOx | Kyungpook National University | Suyong Park, Yundo Choi, Sebin Jung, Hyeonjeong Kim, ChanHyuk Lee |
 | Gudakdary | Chung-Ang University | Kwankyun Byeon, Jiwon Seo, Hojin Lee, Eunji Lee, jonggeon Lim |
