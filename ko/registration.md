@@ -67,8 +67,8 @@ base_url: registration.html
 | ENERNET | National Taipei University of Technology  | Shangyen Lee, Shangtse Lee |
 | GROMIT | 숙명여자대학교  | 정보인, 김경은, 류연지, 이성빈, 조영서 |
 | DSPlay | 상명대학교 | 김희원, 이우진, 박지훈, 목경민 |
-| CIRL | 서울대학교 |  Fikih Muhammad, Anak Agung Krisna Ananda Kusuma, 박관우, 김정수 |
-| DDRX | Zhejiang University | Cheng Hu, Wangjia Weng, Zhouheng Li, Haoyang He, Hongxu Chen | 
+| CIRL | 서울대학교 | Abdul Aris Umar, Fikih Muhammad, Anak Agung Krisna Ananda Kusuma, 박관우, 김정수 |
+| DDRX | Zhejiang University | Lei Xie, Cheng Hu, Wangjia Weng, Zhouheng Li, Haoyang He, Hongxu Chen | 
 | Drunken Driving | 인천대학교 | 안대용, 정철민, 이화수, 김경현 |
 | Paragon | 인천대학교 | 배문규, 김태헌, 이승민, 박규철 | 
 | 끝나고족발 | 동아대학교 | 박보정, 김승환, 문서영, 정재영 |
