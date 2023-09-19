@@ -64,4 +64,12 @@ If you have registered for participation but the list below is not updated, plea
 | IDEA_LAB | Gyeongsang National University | Myungjun Kim, Younghoon Kim, Jihong Park, Sunwoong Moon |
 | ENERNET | National Taipei University of Technology  | Shangyen Lee, Shangtse Lee |
 | GROMIT | Sookmyung Women's University  | Boin Jung, Kyungeun Kim, Yeonji Ryu, Sungbin Lee, Youngseo Cho |
-
+| DSPlay | Sangmyun University | HeeWon Kim, WooJin Lee, JiHoon Park, KyoungMin Mok |
+| CIRL | Seoul National University | Fikih Muhammad, Anak Agung Krisna Ananda Kusuma, KwanWoo Park, Jungsoo Kim|
+| DDRX | Zhejiang University | Cheng Hu, Wangjia Weng, Zhouheng Li, Haoyang He, Hongxu Chen | 
+| Drunken Driving | Incheon University | Daeyong Ahn, CheolMin Jung, Hwasoo Lee, KyungHyun Kim |
+| Paragon | Incheon University | Moongyu Bae, Taeheon Kim, SeungMin Lee, GyuCheol Park | 
+| 끝나고족발 | Dong-a University | Bojung Park, SeungHwan Kim, SeoYong Moon, JaeYoung Jung|
+| 모멘텀 | Dong-a University | Donghoon Park, Heecheol Jeong, Jongwoo Kim, Youngjun Park |
+| Yonam_Mobility | Yonam insitute of Technology | Seungwook Lee, Jisub Shin, Youngjin Sim, Junhyuk Lee, Jaehyun Ki |
+| Yonam | Yonam insitute of Technology | Junseo Kwon, Hyunjun Kim, Hyungdo Na, Seungwon Park, Chawon Lee | 
