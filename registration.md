@@ -56,7 +56,7 @@ If you have registered for participation but the list below is not updated, plea
 | CML | Korea University | Sangryul Baek, Jiwon Kim, Hyeongrae Cho |
 | AGA-CML | Korea University | Hyunah Kim, Garam Nam, Subin Shin, Soorin Cho, Mintaek Oh, Jihwan Mo |
 | BTS | Soongsil University | Younghoon Kwon, Sungyoon Kim, Soomin Kim |
-| SSUWOONG | Soongsil University | Junyoung Park, Minwoo Lee, Junho Lee |
+| SSUWOONG | Soongsil University | Junyoung Park, Ban Sehyun, Minwoo Lee, Junho Lee |
 | ATP | Inje University | Jihong Ryu, Heechul Kim, Jiwoo Seo, Seokwon Seo |
 | MOVE | Inje University | Keonmin Cha, Park Sehun, Kim Seongwoo, Kim Minjoon |
 | QueenCar | GyeongSang National University | Jo Mina, Lee Juho, Lee Hoyun, Jo Sumin |
