@@ -59,7 +59,7 @@ If you have registered for participation but the list below is not updated, plea
 | SSUWOONG | Soongsil University | Junyoung Park, Ban Sehyun, Minwoo Lee, Junho Lee |
 | ATP | Inje University | Jihong Ryu, Heechul Kim, Jiwoo Seo, Seokwon Seo |
 | MOVE | Inje University | Keonmin Cha, Park Sehun, Kim Seongwoo, Kim Minjoon |
-| QueenCar | GyeongSang National University | Jo Mina, Lee Juho, Lee Hoyun, Jo Sumin |
+| QueenCar | GyeongSang National University | Jo Mina, Lee Juho, Lee Hoyun, Jo Sumin, Ryonghak Kim, Seongjin Son |
 | Breath | Handong Global University | Wonbin Lee, Sechan Park, Sunhwan Lee |
 | IDEA_LAB | Gyeongsang National University | Myungjun Kim, Younghoon Kim, Jihong Park, Sunwoong Moon |
 | ENERNET | National Taipei University of Technology  | Shangyen Lee, Shangtse Lee |
