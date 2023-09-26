@@ -61,7 +61,7 @@ base_url: registration.html
 | SSUWOONG | 숭실대학교 | 박준영, 반세현, 이민우, 이준호 |
 | ATP | 인제대학교 | 류지홍, 김희철, 서지우, 서석원 |
 | MOVE | 인제대학교 | 차건민, 박세훈, 김성우, 김민준 |
-| QueenCar | 경상국립대학교 | 조민아, 이주호, 이호윤, 조수민 |
+| QueenCar | 경상국립대학교 | 조민아, 이주호, 이호윤, 조수민, 김룡학, 손성진 |
 | Breath | 한동대학교 | 이원빈, 박세찬, 이선환 |
 | IDEA_LAB | 경상국립대학교 | 김명준, 김영훈, 박지홍, 문선웅 |
 | ENERNET | National Taipei University of Technology  | Shangyen Lee, Shangtse Lee |
