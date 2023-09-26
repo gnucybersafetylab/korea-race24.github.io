@@ -53,7 +53,7 @@ If you have registered for participation but the list below is not updated, plea
 | INHARobo | Inha University | Dongmin Jang, Seungjun Song, Mingyo Kang |
 | AART | Kumoh National Institute of Technology | Saugat Shahi, Insik Jang, Louise Tan, Yujin Kwon, Heoncheol Lee |
 | SAI | Kangwon National University | Youngwoo lee, Kangho Ko, Taehoon Yoon, Sua Kim |
-| CML | Korea University | Sangryul Baek, Jiwon Kim, Hyeongrae Cho, Jihwan Mo |
+| CML | Korea University | Sangryul Baek, Woojoong Kim, Jiwon Kim, Hyeongrae Cho, Jihwan Mo |
 | AGA-CML | Korea University | Hyunah Kim, Garam Nam, Subin Shin, Soorin Cho, Mintaek Oh |
 | BTS | Soongsil University | Younghoon Kwon, Sungyoon Kim, Soomin Kim |
 | SSUWOONG | Soongsil University | Junyoung Park, Ban Sehyun, Minwoo Lee, Junho Lee |
