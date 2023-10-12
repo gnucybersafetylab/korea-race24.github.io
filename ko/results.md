@@ -22,20 +22,25 @@ base_url: results.html
 # Time Trial
 
 <br>
-<center>
-[Mapping Schedule, Qualification Schedule, Qualification Result](https://docs.google.com/spreadsheets/d/1eQpSkZx9a3RhTlKw-gK5Nj0ywJBRo5ARTXl-dxON8jY/edit?usp=sharing)
-<!-- <img src="../images/result_tt.png"  style="width: 80%" alt="Time Trial" /> -->
+
+<!-- [Mapping Schedule, Qualification Schedule, Qualification Result](https://docs.google.com/spreadsheets/d/1eQpSkZx9a3RhTlKw-gK5Nj0ywJBRo5ARTXl-dxON8jY/edit?usp=sharing) -->
+<center class="actions">
+	<a href="https://docs.google.com/spreadsheets/d/1eQpSkZx9a3RhTlKw-gK5Nj0ywJBRo5ARTXl-dxON8jY/edit?usp=sharing" class="button">Mapping Schedule, Qualification</a>
 </center>
+<!-- <img src="../images/result_tt.png"  style="width: 80%" alt="Time Trial" /> -->
+
 <br>
 
 # Tournament Bracket
 
 <br>
-<center>
-[Tournament](https://challonge.com/ko/odah4c7x) 
 
-<!-- <img src="../images/result_bracket.png"  style="width: 80%" alt="Tournament Bracket" /> -->
+<!-- [Tournament](https://challonge.com/ko/odah4c7x)  -->
+<center class="actions">
+	<a href="https://challonge.com/ko/odah4c7x" class="button">Tournament</a>
 </center>
+<!-- <img src="../images/result_bracket.png"  style="width: 80%" alt="Tournament Bracket" /> -->
+
 <br>
 
 <!-- # Head to Head
