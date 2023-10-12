@@ -23,7 +23,7 @@ base_url: results.html
 
 <br>
 <center>
-To Be Determined.
+[Mapping Schedule, Qualification Schedule, Qualification Result](https://docs.google.com/spreadsheets/d/1eQpSkZx9a3RhTlKw-gK5Nj0ywJBRo5ARTXl-dxON8jY/edit?usp=sharing)
 <!-- <img src="../images/result_tt.png"  style="width: 80%" alt="Time Trial" /> -->
 </center>
 <br>
@@ -32,7 +32,7 @@ To Be Determined.
 
 <br>
 <center>
-To Be Determined.
+[Tournament](https://challonge.com/ko/odah4c7x) 
 
 <!-- <img src="../images/result_bracket.png"  style="width: 80%" alt="Tournament Bracket" /> -->
 </center>
