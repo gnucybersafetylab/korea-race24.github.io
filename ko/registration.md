@@ -49,7 +49,7 @@ base_url: registration.html
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
 | ICHTHUS | 숭실대학교 | 정진섭, 강세륜, 임현규 |
 | ICHTHUS2 | 숭실대학교 | 김민, 김병지, 전민혁 |
-| HMCar | 울산과학기술원 | 김광록, 강경태, 류정상, 김정빈 |
+| HMCar | 울산과학기술원 | 김광록, 강경태, 류정상, 이윤호 |
 | TigerOx | 경북대학교 | 박수용, 최윤도, 정세빈, 김현정, 이찬혁 |
 | Gudakdary | 중앙대학교 | 변관균, 서지원, 이호진, 이은지, 임종건 |
 | INHARobo | 인하대학교 | 장동민, 송승준, 김민교 |
