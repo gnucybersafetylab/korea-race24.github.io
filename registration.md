@@ -47,7 +47,7 @@ If you have registered for participation but the list below is not updated, plea
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
 | ICHTHUS | Soongsil University | JinSeob Jung, Seryun Kang, Hyunkyu Lim |
 | ICHTHUS2 | Soongsil University | Min Kim, ByungJi Kim, MinHyuk Jeon |
-| HMCar | UNIST | Kwangrok Kim, Kyungtae Kang, Jeongsang Ryu, Jungbin Kim |
+| HMCar | UNIST | Kwangrok Kim, Kyungtae Kang, Jeongsang Ryu, Yoonho Lee |
 | TigerOx | Kyungpook National University | Suyong Park, Yundo Choi, Sebin Jung, Hyeonjeong Kim, ChanHyuk Lee |
 | Gudakdary | Chung-Ang University | Kwankyun Byeon, Jiwon Seo, Hojin Lee, Eunji Lee, jonggeon Lim |
 | INHARobo | Inha University | Dongmin Jang, Seungjun Song, Mingyo Kang |
