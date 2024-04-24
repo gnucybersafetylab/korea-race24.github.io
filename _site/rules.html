@@ -53,6 +53,12 @@
             
         
             
+                <li ><a href="results.html">Result</a></li>
+            
+        
+            
+                <li ><a href="bootcamp.html">Event</a></li>
+            
         
     </ul>
     <ul class="icons">
@@ -96,7 +102,7 @@ h2, h3, h4, h5, h6 {
 }
 </style>
 
-<p>Date: 2021-12-17</p>
+<p>Date: 2023-10-11</p>
 
 <p><strong>Table of content</strong></p>
 <ul id="markdown-toc">
@@ -158,27 +164,36 @@ qualification and will be automatically registered to both races.</p>
 
     <ol>
       <li>The vehicle is constructed according to the official <a href="https://f1tenth.readthedocs.io/en/stable/getting_started/build_car/bom.html">bill of materials</a>. The teams are allowed to use components of similar or lower specifications.</li>
-      <li>Each vehicle will be inspected as a part of qualification whether it meets the criteria. In case the criteria are not met, the vehicle is moved to the Open Class.</li>
+      <li>Each vehicle will be inspected as a part of qualification whether it meets the criteria. In case the criteria are not met, the vehicle cannot participate.</li>
       <li><strong>F1TENTH Competition is a battle of algorithms. Any hardware that should turn the odds in your favor is not allowed</strong>.</li>
       <li><em>Chassis</em>:
  Any chassis listed as <em>1:10 scale</em> car is allowed. Preferably <strong>1:10 Traxxas</strong> (e.g., <a href="https://traxxas.com/products/models/electric/ford-fiesta-st-rally">TRA74054</a>, <a href="https://traxxas.com/products/models/electric/6804Rslash4x4platinum">TRA6804R</a>, <a href="https://traxxas.com/products/models/electric/slash-4x4-tsm">TRA68086</a>), but generally, any chassis with similar dimensions is allowed. Both 4WD and 2WD are permitted.</li>
       <li><em>Main Computation Unit</em>:
- <strong>Nvidia Jetson Xavier NX</strong>, Equivalents to the Nvidia Jetson NX (e.g. Nvidia Jetson TX2, Nvidia Jetson Nano), or anything of equal or lower GPU and CPU specification is allowed. Examples of possible computation units could be: Raspberry Pi, Arduino, Beaglebone.</li>
+ <strong>Nvidia Jetson Xavier NX &amp; Nvidia Orin NX (AGX)</strong>, Equivalents to the Nvidia Jetson NX &amp; Nvidia Orin NX(AGX) (e.g. Nvidia Jetson TX2, Nvidia Jetson Nano), or anything of equal or lower GPU and CPU specification is allowed. Examples of possible computation units could be: Raspberry Pi, Arduino, Beaglebone.</li>
       <li><em>LiDAR</em>:
  <a href="https://www.hokuyo-aut.jp/search/single.php?serial=167"><strong>Hokuyo UST-10LX</strong></a>, its equivalent, or anything of lower specifications is allowed. The main observed characteristics are: detection range (10 m), scanning frequency (40 Hz), and angular resolution (0.25°).</li>
       <li><em>Camera</em>:
  Both <em>monocamera</em> (e.g. Logitech C270, Logitech C920, Raspberry Pi Camera Module V2, Arducam) and <em>stereokameras</em> (e.g. Intel Realsense, ZED) are allowed.</li>
       <li><em>Engine</em>:
  Only brushless DC motors are allowed. The <a href="https://traxxas.com/products/parts/motors/velineon3500motor"><strong>Velineon 3500 kV</strong></a>, its equivalent, or anything of lower specifications regarding power and torque are allowed.</li>
+      <li><em>Battery</em>:<br />
+ a) 4S Battery size: 48<em>38</em>145, capacity: 5000mAh, connection jack: XT90, <a href="http://rclife.co.kr/product/product_detail.asp?product_number=179110">Battery recommended model link</a>, <a href="http://rclife.co.kr/product/product_detail.asp?product_number=101217"> Requires purchase of Li-Po extension cable</a><br />
+ b) lithium polymer battery charger instructions:<br />
+   -Multipurpose battery charger<br />
+   -Requires Balance Charge support<br />
+   -Requires charging safety device function<br />
+   -Recommended model: <a href="http://rclife.co.kr/product/product_detail.asp?product_number=109032">IMAX B6</a><br />
+   -<a href="http://rclife.co.kr/product/product_detail.asp?product_number=150352">Recommended purchase of charging cable (XT90)</a><br />
+   <br /> <a href="./images/regulator_e.PNG">image</a></li>
       <li><em>Other sensors</em>:
- Other sensors (IMUs, encoders, custom electronic speed controllers) are not restricted. Indoor GPS sensors (e.g. Marvelmind) are not allowed. In addition, in the spirit of the competition, components with significant internal computation power are prohibited.</li>
+Other sensors (IMUs, encoders, custom electronic speed controllers) are not restricted. Indoor GPS sensors (e.g. Marvelmind) are not allowed. In addition, in the spirit of the competition, components with significant internal computation power are prohibited.</li>
     </ol>
   </li>
 </ol>
 
 <h4 id="22-track--racing-environment">2.2 Track &amp; racing environment</h4>
 
-<p>The competition will take place in the <a href="https:/www.ramadajeju.co.kr/">Ramada Plaza Jeju</a>. The characteristics of the environment where the track will be built are:</p>
+<p>The competition will take place in the <a href="https://www.sonohotelsresorts.com/yeosu">SonoClam Yeosu</a>. The characteristics of the environment where the track will be built are:</p>
 
 <ol>
   <li>The surface is flat and reflective. Therefore, LiDAR beams may reflect from the ground and measure the surrounding area rather than the ground. Similarly, depth cameras have problems with proper ground detection.</li>
@@ -283,7 +298,7 @@ qualification and will be automatically registered to both races.</p>
 
 <ol>
   <li>
-    <p>The Head-to-Head race is a race with two cars on the track at the same time.</p>
+    <p>The Head-to-Head race is a race with two cars on the track at the same time on the same track but from opposite starting points.</p>
   </li>
   <li>
     <p>The racetrack has the same layout as in the training and qualification sessions.</p>
@@ -353,7 +368,7 @@ qualification and will be automatically registered to both races.</p>
 <h5 id="254-evaluation">2.5.4 Evaluation</h5>
 
 <ol>
-  <li>The first car that completes 10 laps wins.</li>
+  <li>The first car that completes 8 laps wins.</li>
   <li>There will be two referees, one for each car.</li>
   <li>Each referee counts the lap for one car and is responsible for identifying the crashes.</li>
 </ol>

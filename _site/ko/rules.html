@@ -53,6 +53,12 @@
             
         
             
+                <li ><a href="results.html">Result</a></li>
+            
+        
+            
+                <li ><a href="bootcamp.html">Event</a></li>
+            
         
     </ul>
     <ul class="icons">
@@ -160,7 +166,7 @@ h2, h3, h4, h5, h6 {
 
     <ol>
       <li>차량은 공식 <a href="https://f1tenth.readthedocs.io/en/stable/getting_started/build_car/bom.html">BOM</a>에 따라 제작됩니다. 팀은 유사하거나 더 낮은 사양의 구성 요소를 사용할 수 있습니다.</li>
-      <li>각 차량은 기준이 충족하는지 검사를 합니다. 기준이 충족되지 않을 경우 차량은 오픈 클래스로 이동됩니다.</li>
+      <li>각 차량은 기준이 충족하는지 검사를 합니다. 기준이 충족되지 않을 경우 차량은 출전이 금지됩니다.</li>
       <li><strong>F1TENTH 경주는 알고리즘 싸움입니다. 경주에 유리한 하드웨어는 허용되지 않습니다.</strong></li>
       <li>
         <p><em>자동차 섀시</em>:
@@ -168,7 +174,7 @@ h2, h3, h4, h5, h6 {
       </li>
       <li>
         <p><em>주 컴퓨팅 장치</em>:
- <strong>Nvidia Jetson Xavier NX</strong>, Nvidia Jetson NX와 동급(예: Nvidia Jetson TX2, Nvidia Jetson Nano) 또는 GPU 및 CPU 사양이 같거나 낮은 모든 것은 모두  허용됩니다. 또 다른 예로는 Raspberry Pi, Arduino, Beaglebone이 있습니다.</p>
+ <strong>Nvidia Jetson Xavier NX &amp; Nvidia Orin NX (AGX)</strong>, Nvidia Jetson NX &amp; Nvidia Orin NX (AGX)와 동급(예: Nvidia Jetson TX2, Nvidia Jetson Nano) 또는 GPU 및 CPU 사양이 같거나 낮은 모든 것은 모두  허용됩니다. 또 다른 예로는 Raspberry Pi, Arduino, Beaglebone이 있습니다.</p>
       </li>
       <li>
         <p><em>LiDAR</em>:
@@ -178,19 +184,26 @@ h2, h3, h4, h5, h6 {
         <p><em>카메라</em>:
  모노 카메라(예: Logitech C270, Logitech C920, Raspberry Pi Camera Module V2, Arducam) 및 스테레오 카메라(예: Intel Realsense, ZED) 모두 허용됩니다.</p>
       </li>
-      <li>
-        <p><em>구동계</em>:
- 브러시리스 DC 모터만 허용됩니다. <a href="https://traxxas.com/products/parts/motors/velineon3500motor"><strong>Velineon 3500 kV</strong></a>, 동급 또는 전력 및 토크에 관한 더 낮은 사양의 모든 것을 허용됩니다.</p>
-      </li>
+      <li><em>구동계</em>:
+ 브러시리스 DC 모터만 허용됩니다. <a href="https://traxxas.com/products/parts/motors/velineon3500motor"><strong>Velineon 3500 kV</strong></a>, 동급 또는 전력 및 토크에 관한 더 낮은 사양의 모든 것을 허용됩니다.</li>
+      <li><em>Battery</em>:<br />
+ a) 4S 배터리 크기: 48<em>38</em>145, 용량: 5000mAh, 연결 잭: XT90, <a href="http://rclife.co.kr/product/product_detail.asp?product_number=179110">배터리 권장 모델 링크</a>, <a href="http://rclife.co.kr/product/product_detail.asp?product_number=101217">Li-Po 연장 케이블 구매 필요</a><br />
+ b) 리튬 폴리머 배터리 충전기 안내: <br />
+   -다용도 배터리 충전기 <br />
+   -Balance Charge 지원 필요<br />
+   -충전 안전장치 기능 필요<br />
+   -권장 모델: <a href="http://rclife.co.kr/product/product_detail.asp?product_number=109032">IMAX B6</a><br />
+   -<a href="http://rclife.co.kr/product/product_detail.asp?product_number=150352">충전케이블 구매 권장 (XT90)</a><br />
+   <br /> <a href="../images/regulator.PNG">사진</a></li>
       <li><em>기타 센서</em>:
- 기타 센서(IMU, 인코더, 맞춤형 전자 속도 컨트롤러)는 제한되지 않습니다. 실내 GPS 센서(예: Marvelmind)는 허용되지 않습니다. 또한, 경주를 위해 내부 연산력을 빠르게 하는 부품은 금지됩니다.</li>
+기타 센서(IMU, 인코더, 맞춤형 전자 속도 컨트롤러)는 제한되지 않습니다. 실내 GPS 센서(예: Marvelmind)는 허용되지 않습니다. 또한, 경주를 위해 내부 연산력을 빠르게 하는 부품은 금지됩니다.</li>
     </ol>
   </li>
 </ol>
 
 <h4 id="22-트랙-및-경주-환경">2.2 트랙 및 경주 환경</h4>
 
-<p>경주는 <a href="">라마다프라자 제주</a>에서 열립니다. 트랙의 환경은 다음과 같습니다:</p>
+<p>경주는 <a href="https://www.sonohotelsresorts.com/yeosu">소노캄 여수</a>에서 열립니다. 트랙의 환경은 다음과 같습니다:</p>
 
 <ol>
   <li>표면은 평평하고 반사됩니다. 따라서 LiDAR 빔은 지면에서 반사되어 지면이 아닌 주변 영역을 측정할 수 있습니다. 마찬가지로 깊이 카메라는 적절한 지면 감지에 문제가 있습니다.</li>
@@ -294,7 +307,7 @@ h2, h3, h4, h5, h6 {
 
 <ol>
   <li>
-    <p>일대일 경주는 두 대의 차가 동일한 시간에 같은 트랙에서 진행되는 경주입니다.</p>
+    <p>일대일 경주는 두 대의 차가 동일한 시간에 같은 트랙에서 반대 출발점에서 시작하여 진행되는 경주입니다.</p>
   </li>
   <li>
     <p>경주 트랙은 연습 및 예선에서 사용한 트랙과 같습니다.</p>
@@ -371,7 +384,7 @@ h2, h3, h4, h5, h6 {
 <h5 id="254-평가">2.5.4 평가</h5>
 
 <ol>
-  <li>트랙의 10바퀴를 먼저 주행하는 차가 승리합니다.</li>
+  <li>트랙의 8바퀴를 먼저 주행하는 차가 승리합니다.</li>
   <li>각 차마다 한명씩 총 두명의 심판이 있을 것입니다.</li>
   <li>각 심판은 차량 한 대가 트랙을 몇바퀴 돌았는지를 세고 충돌 상황을 확인해야 합니다.</li>
 </ol>
