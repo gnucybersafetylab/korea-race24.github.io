@@ -16,7 +16,7 @@ This competition is open for everyone of all levels, everyone is welcome to part
 A form for race participants
 
 For race registration and more information, sign up to participate in orientation and information session.
-(Note: One of the team members must register with [ICCAS2024](https://2024.iccas.org/) to participate.)
+(Note: One of the team members must register with [ICCAS2023](https://2023.iccas.org/) to participate.)
 
 <center class="actions">
 	<a href="https://docs.google.com/forms/d/1ycNog7lz3oYiwzHIJfmzt0CW0E1GGCBMy1FUQ7ij1AI/viewform?edit_requested=true" class="button">Registration for a race</a>
