@@ -8,7 +8,7 @@ h2_title: F1TENTH KOREA CHAMPIONSHIP
 
 ---
 
-F1TENTH Autonomous Racing is a semi-regular competition organized by an international community of researchers, engineers, and autonomous systems enthusiasts.
+F1TENTH 111111111111111111111111111111Autonomous Racing is a semi-regular competition organized by an international community of researchers, engineers, and autonomous systems enthusiasts.
 
 <br>
 <br>
