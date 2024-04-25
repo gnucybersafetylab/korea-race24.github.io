@@ -85,7 +85,7 @@ h2, h3, h4, h5, h6 {
           -충전 안전장치 기능 필요<br>
           -권장 모델: [IMAX B6](http://rclife.co.kr/product/product_detail.asp?product_number=109032)<br>
           -[충전케이블 구매 권장 (XT90)](http://rclife.co.kr/product/product_detail.asp?product_number=150352)<br>
-          <br> [사진](./images/regulator.PNG)
+          <br> [사진](../images/regulator.PNG)
     10. _기타 센서_:
         기타 센서(IMU, 인코더, 맞춤형 전자 속도 컨트롤러)는 제한되지 않습니다. 실내 GPS 센서(예: Marvelmind)는 허용되지 않습니다. 또한, 경주를 위해 내부 연산력을 빠르게 하는 부품은 금지됩니다.
 

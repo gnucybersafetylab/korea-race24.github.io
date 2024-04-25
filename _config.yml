@@ -1,9 +1,6 @@
 kramdown:
   header_offset: 2
 
-url: "https://gnucybersafetylab.github.io/korea-race24.github.io" 
-
-
 navigation:
   - about: 
     text: "About"
