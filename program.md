@@ -18,7 +18,7 @@ base_url: program.html
 | 11:00~12:00 | Our journey to F1TENTH : not all fun and games | Prof. Kwon, Cheolhyeon (UNIST) |
 | 12:00~14:00 | Lunch |  |
 | Session 2 | Introduction to State-of-Art Automated Racing Technologies (in English) | Prof. Kim, Kyong Hoon (Kyungpook National University) |
-| 14:00~15:00 | [Towards Bridging the Sim-to-Real Gap - F1TENTH Gym Environment for Learning-based Control Policies in Autonomous Racing](../agenda.html#towards-bridging-the-sim-to-real-gap---f1tenth-gym-environment-for-learning-based-control-policies-in-autonomous-racing) | Dr. Kukjin Jang (University of Pennsylvania) |
+| 14:00~15:00 | [Towards Bridging the Sim-to-Real Gap - F1TENTH Gym Environment for Learning-based Control Policies in Autonomous Racing](./agenda.html#towards-bridging-the-sim-to-real-gap---f1tenth-gym-environment-for-learning-based-control-policies-in-autonomous-racing) | Dr. Kukjin Jang (University of Pennsylvania) |
 | 15:30~16:30 | Motion Planning and Control in High Dynamic Multi-Vehicle Environments | Professor.Johannes Betz (Technical University of Munich) |
 | 20:00~ | Open the race course and mapping | |
 
