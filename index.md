@@ -1,6 +1,6 @@
 ---
 title: About
-layout: index
+layout: index _init
 section: about
 language: en-US
 base_url: index.html
