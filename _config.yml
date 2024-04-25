@@ -22,7 +22,7 @@ navigation:
 
   - race_resource: 
     text: "Race Resource"
-    url: "race_resourcess.html"
+    url: "race_resources.html"
     section: "race"
     display: true
 
