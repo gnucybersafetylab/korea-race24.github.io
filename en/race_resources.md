@@ -11,8 +11,8 @@ All necessary information about the race e.g. rules and scoring system will be d
 
 <!-- - [Orientation Slides (Nov 17 19:00 KST)](../static_data/KSTME2022_Orientation.pdf) -->
 <!-- - [Orientation Slides (It will be open by May 25th)](../static_data/KSTME2022_Orientation.pdf) -->
-- [Orientation Slides](./static_data/F1Tenth_Orientation_230908.pdf)
-- [Rules]({% link rules.md %})
+- [Orientation Slides](../static_data/F1Tenth_Orientation_230908.pdf)
+- [Rules]({% link en/rules.md %})
 
 - Frequently Asked Questions
-  - [In-person competition]({% link faq-physical.md %})
+  - [In-person competition]({% link en/faq-physical.md %})

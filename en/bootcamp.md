@@ -13,6 +13,6 @@ base_url: bootcamp.html
 | Sep 16th |  Technology Exchange Conference |
 
 
-<span class="image fit"><img src="./images/F1TENTH/bootcamp.png" alt="" /></span>
+<span class="image fit"><img src="../images/F1TENTH/bootcamp.png" alt="" /></span>
 <br>
 

@@ -6,7 +6,7 @@
                 {% if page.language == 'en-US' %}
                 <li><a href="./en/{{ item.url }}" class=""><span class="label"></span>{{ item.text }}</a></li>
                 {% elsif page.language == 'ko-KR' %}
-                <li><a href="./ko/{{ item.url }}" class=""><span class="label"></span>{{ item.text }}</a></li>
+                <li><a href="./kr/{{ item.url }}" class=""><span class="label"></span>{{ item.text }}</a></li>
                 {% endif %}
             {% endif %}
         {% endfor %}
@@ -19,9 +19,10 @@
         <li><a href="{{ site.data.index.slack }}" class="icon brands alt fa-slack"><span class="label">Slack</span></a></li>
         <li><a href="{{ site.data.index.github }}" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
         {% if page.language == 'en-US' %}
-        <li><a href="./ko/{{ page.base_url }}" class=""><span class="label"><b>KR</b></span></a></li>
+        <li><a href="./kr/{{ page.base_url }}" class=""><span class="label"><b>KR</b></span></a></li>
         {% elsif page.language == 'ko-KR' %}
         <li><a href="./en/{{ page.base_url }}" class=""><span class="label"><b>EN</b></span></a></li>
         {% endif %}
+
     </ul>
 </nav>
