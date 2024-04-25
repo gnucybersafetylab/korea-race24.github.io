@@ -4,7 +4,7 @@ short_title: RACE RESOURCES
 layout: page
 section: race
 language: en-US
-base_url: race_resources.html
+base_url: ./_site/race_resources.html
 ---
 
 All necessary information about the race e.g. rules and scoring system will be displayed here.
