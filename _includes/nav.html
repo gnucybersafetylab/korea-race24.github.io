@@ -2,7 +2,12 @@
     <ul class="links">
         {% for item in site.navigation %}
             {% if item.display == true %}
-                <li {%if page.section == item.section %}class="active"{%endif%}><a href="{{ item.url }}">{{ item.text }}</a></li>
+                    <!-- <li {%if page.section == item.section %}class="active"{%endif%}><a href="{{ item.url }}">{{ item.text }}</a></li> -->
+                {% if page.language == 'en-US' %}
+                <li><a href="./en/{{ item.url }}" class=""><span class="label"></span>{{ item.text }}</a></li>
+                {% elsif page.language == 'ko-KR' %}
+                <li><a href="./ko/{{ item.url }}" class=""><span class="label"></span>{{ item.text }}</a></li>
+                {% endif %}
             {% endif %}
         {% endfor %}
     </ul>
@@ -16,7 +21,7 @@
         {% if page.language == 'en-US' %}
         <li><a href="./ko/{{ page.base_url }}" class=""><span class="label"><b>KR</b></span></a></li>
         {% elsif page.language == 'ko-KR' %}
-        <li><a href="../{{ page.base_url }}" class=""><span class="label"><b>EN</b></span></a></li>
+        <li><a href="./en/{{ page.base_url }}" class=""><span class="label"><b>EN</b></span></a></li>
         {% endif %}
     </ul>
 </nav>
