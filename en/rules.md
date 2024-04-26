@@ -24,7 +24,7 @@ h2, h3, h4, h5, h6 {
 }
 </style>
 
-Date: 2024-10-28
+Date: 2023-10-11
 
 **Table of content**
 - ToC
@@ -84,7 +84,7 @@ qualification and will be automatically registered to both races.
 
 ## 2.2 Track & racing environment
 
-The competition will take place in the [Jeju Shinhwa World](https://www.shinhwaworld.com/). The characteristics of the environment where the track will be built are:
+The competition will take place in the [SonoClam Yeosu](https://www.sonohotelsresorts.com/yeosu). The characteristics of the environment where the track will be built are:
 
 1. The surface is flat and reflective. Therefore, LiDAR beams may reflect from the ground and measure the surrounding area rather than the ground. Similarly, depth cameras have problems with proper ground detection.
 2. The room is surrounded by windows and “glass walls”. The windows will be covered by non-transparent material up to 50 cm from the ground to improve the perception. The room is bright, and the Sun can shine into it.

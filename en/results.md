@@ -10,12 +10,12 @@ base_url: results.html
 
 | Ranking | Award | Team | Prize |
 |:---|:---|:---|:---|
-| Grand Pize | -- | -- | -- |
-| 1st Place Prize | -- | -- | -- |
-| 2nd Place Prize | -- | -- | -- |
-| 3rd Place Prize | -- | -- | -- |
-| 4th | -- | -- | -- |
-| 5th | -- | -- | -- |
+<!-- | Grand Pize | KATECH | HMcar | 5,000,000 KRW |
+| 1st Place Prize | UNIST Future Mobility Center | Paragon | 3,000,000 KRW |
+| 2nd Place Prize | ICCAS | DSplay | 1,000,000 KRW |
+| 3rd Place Prize | KEMCTI | QueenCar | 1,000,000 KRW |
+| 4th | Sonnet | Move | F1Tenth autonomous vehicle <br>(Worth 4,000,000 KRW) |
+| 5th | GM | DDRX | GM Goods | -->
 
 # Time Trial
 
