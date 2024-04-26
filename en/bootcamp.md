@@ -6,6 +6,7 @@ section: Event
 language: en-US
 base_url: bootcamp.html
 ---
+<br>
 
 | DATE | Event |
 |:---|:---:|
