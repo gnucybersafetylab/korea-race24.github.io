@@ -8,10 +8,10 @@ base_url: bootcamp.html
 ---
 # 이벤트 정보
 
-| DATE | Event |
+| DATE | EVENT |
 |:---|:---:|
-| -- | -- |
-| -- | -- |
+|  |  |
+|  |  |
 
 
 

@@ -8,7 +8,7 @@ base_url: bootcamp.html
 ---
 # Event List
 
-| DATE | Event |
+| DATE | EVENT |
 |:---|:---:|
-| -- | -- |
-| -- | -- |
+|  |  |
+|  |  |
