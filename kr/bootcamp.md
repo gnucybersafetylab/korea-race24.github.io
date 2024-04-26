@@ -7,11 +7,10 @@ language: ko-KR
 base_url: bootcamp.html
 ---
 
-| DATE | Event| 
+| DATE | Event | 
 |:---|:---:|
 | -- | -- |
 | -- | -- |
 
-<!-- <span class="image fit"><img src="../images/F1TENTH/bootcamp.png" alt="" /></span> -->
-<br>
+
 

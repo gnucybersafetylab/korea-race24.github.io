@@ -10,9 +10,5 @@ base_url: bootcamp.html
 | DATE | Event |
 |:---|:---:|
 | -- | -- |
-| -- |  -- |
-
-
-<!-- <span class="image fit"><img src="../images/F1TENTH/bootcamp.png" alt="" /></span> -->
-<br>
+| -- | -- |
 
