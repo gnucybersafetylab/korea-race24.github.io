@@ -17,7 +17,7 @@ base_url: timeline.html
 | Oct 28th | 대회 시작 |
 | Oct 29th | 팀 연습 |
 | Oct 30th | 예선 세션 및 정면 승부 토너먼트 레이싱 |
-| Oct 31th | 기술교류회 |
+| Oct 31th | 준결승 & 결승 레이싱 |
 
 
 
