@@ -42,7 +42,7 @@ If you have registered for participation but the list below is not updated, plea
 
 | TEAM NAME | AFFILIATION | TEAM MEMBERS |
 |:---|:---|:---|
-| Black Crane | Inje University | Seongjun Kim, Hojae Lee, Sunyong Jeong |
+<!-- | Black Crane | Inje University | Seongjun Kim, Hojae Lee, Sunyong Jeong |
 | Tayo Eagles | Chungbuk National University | GeonWoo Kim, TaekLim Kim, Dohyeon Kwon |
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
 | ICHTHUS | Soongsil University | JinSeob Jung, Seryun Kang, Hyunkyu Lim |
@@ -72,4 +72,4 @@ If you have registered for participation but the list below is not updated, plea
 | 끝나고족발 | Dong-a University | Bojung Park, SeungHwan Kim, SeoYong Moon, JaeYoung Jung|
 | 모멘텀 | Dong-a University | Donghoon Park, Heecheol Jeong, Jongwoo Kim, Youngjun Park |
 | Yonam_Mobility | Yonam insitute of Technology | Seungwook Lee, Jisub Shin, Youngjin Sim, Junhyuk Lee, Jaehyun Ki |
-| Yonam | Yonam insitute of Technology | Junseo Kwon, Hyunjun Kim, Hyungdo Na, Seungwon Park, Chawon Lee | 
+| Yonam | Yonam insitute of Technology | Junseo Kwon, Hyunjun Kim, Hyungdo Na, Seungwon Park, Chawon Lee |  -->

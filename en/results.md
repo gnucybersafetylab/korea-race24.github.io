@@ -10,21 +10,21 @@ base_url: results.html
 
 | Ranking | Award | Team | Prize |
 |:---|:---|:---|:---|
-| Grand Pize | KATECH | HMcar | 5,000,000 KRW |
+<!-- | Grand Pize | KATECH | HMcar | 5,000,000 KRW |
 | 1st Place Prize | UNIST Future Mobility Center | Paragon | 3,000,000 KRW |
 | 2nd Place Prize | ICCAS | DSplay | 1,000,000 KRW |
 | 3rd Place Prize | KEMCTI | QueenCar | 1,000,000 KRW |
 | 4th | Sonnet | Move | F1Tenth autonomous vehicle <br>(Worth 4,000,000 KRW) |
-| 5th | GM | DDRX | GM Goods |
+| 5th | GM | DDRX | GM Goods | -->
 
 # Time Trial
 
 <br>
 
 <!-- <img src="../images/result_tt.png"  style="width: 80%" alt="Time Trial" /> -->
-<center class="actions">
+<!-- <center class="actions">
 	<a href="https://docs.google.com/spreadsheets/d/1eQpSkZx9a3RhTlKw-gK5Nj0ywJBRo5ARTXl-dxON8jY/edit?usp=sharing" class="button">Mapping Schedule, Qualification</a>
-</center>
+</center> -->
 
 <br>
 
@@ -33,9 +33,9 @@ base_url: results.html
 <br>
 
 <!-- <img src="../images/result_bracket.png"  style="width: 80%" alt="Tournament Bracket" /> -->
-<center class="actions">
+<!-- <center class="actions">
 	<a href="https://challonge.com/ko/odah4c7x" class="button">Tournament</a>
-</center>
+</center> -->
 
 <br>
 

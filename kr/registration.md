@@ -17,7 +17,7 @@ base_url: registration.html
 **경기 참가자 용**
 
 경주 참가신청 및 자세한 정보를 보려면 오리엔테이션 및 정보 세션에 등록하세요.
-(Note : 팀원 중 1명은 [ICCAS2023](https://2023.iccas.org/)에 등록하셔야 참가 가능합니다.)
+(Note : 팀원 중 1명은 [ICCAS2024](https://2024.iccas.org/)에 등록하셔야 참가 가능합니다.)
 
 <center class="actions">
 	<a href="https://docs.google.com/forms/d/1ycNog7lz3oYiwzHIJfmzt0CW0E1GGCBMy1FUQ7ij1AI/viewform?edit_requested=true" class="button">경주 참가 신청</a>
@@ -44,7 +44,7 @@ base_url: registration.html
 
 | 팀명 | 소속 | 팀원 |
 |:---|:---|:---|
-| Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
+<!-- | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
 | Tayo Eagles | 충북대학교 | 김건우, 김택림, 권도현 |
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
 | ICHTHUS | 숭실대학교 | 정진섭, 강세륜, 임현규 |
@@ -74,5 +74,5 @@ base_url: registration.html
 | 끝나고족발 | 동아대학교 | 박보정, 김승환, 문서영, 정재영 |
 | 모멘텀 | 동아대학교 | 박동훈, 정희철, 김종우, 박영준 |
 | Yonam_Mobility | 연암공과대학교 | 이승욱, 신지섭, 심영진, 이준혁, 기재현 |
-| Yonam | 연암공과대학교 | 권준서, 김현준, 나형도, 박승원, 이차원 | 
+| Yonam | 연암공과대학교 | 권준서, 김현준, 나형도, 박승원, 이차원 |  -->
 

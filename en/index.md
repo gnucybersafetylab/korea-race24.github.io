@@ -20,10 +20,10 @@ F1TENTH Autonomous Racing is a semi-regular competition organized by an internat
 The teams participating in 1st F1TENTH korea Championship will build a 1:10 scaled autonomous race car according to a given specification and write software for it to fulfill the objectives for the competition: Don’t crash and minimize laptime.
 <br>
 <br>
-ICCAS 2023 is a In-person competition.
+ICCAS 2024 is a In-person competition.
 <br>
 <br>
-In-person competition: This variant targets participants who will travel to Yeosu-si Jeollanam-do of the Republic of Korea . Each team will bring their own physical F1TENTH car with their software. The organizers provide the race setup (rules, submissions, guidelines), the track, related infrastructure and organize the race itself.
+In-person competition: This variant targets participants who will travel to Jeju Island of the Republic of Korea . Each team will bring their own physical F1TENTH car with their software. The organizers provide the race setup (rules, submissions, guidelines), the track, related infrastructure and organize the race itself.
 <br>
 
 
