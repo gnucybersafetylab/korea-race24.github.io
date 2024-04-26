@@ -12,13 +12,12 @@ base_url: timeline.html
 | DATE | IN-PERSON COMPETITION |
 |:---|:---:|
 | June 6th | [참가자 등록 시작](https://docs.google.com/forms/d/1ycNog7lz3oYiwzHIJfmzt0CW0E1GGCBMy1FUQ7ij1AI/viewform?edit_requested=true) |
-<!-- | Aug 7th - 9th| F1Tenth 부트 캠프 | -->
 | Sep 20th <br> 19:00 KST | 오리엔테이션 (온라인 미팅) <br>[미팅 링크](https://unist-kr.zoom.us/j/87812180691) <br> 대회 소개 및 QnA |
 | Sep 29th <br> 23:59 KST | 등록 마감 |
 | Oct 28th | 대회 시작 |
 | Oct 29th | 팀 연습 |
 | Oct 30th | 예선 세션 및 정면 승부 토너먼트 레이싱 |
-| Oct 31th | 기술교류회 |
+| Oct 31th | 준결승 & 결승 레이싱 |
 
 
 
