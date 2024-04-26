@@ -6,7 +6,7 @@ section: Event
 language: ko-KR
 base_url: bootcamp.html
 ---
-<br>
+# 이벤트 정보
 
 | DATE | Event | 
 |:---|:---:|
