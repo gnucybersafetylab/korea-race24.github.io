@@ -14,7 +14,7 @@ base_url: timeline.html
 | Sep 20th <br> 19:00 KST |Orientation (Online Meeting) <br> [Meeting Link](https://unist-kr.zoom.us/j/87812180691) <br> Demonstrate expectations, prospective participants can ask questions |
 | Sep 29th <br> 23:59 KST | Registration closes |
 | Oct 28th | Competition Start |
-| Oct 29th | TTeam Practice |
+| Oct 29th | Team Practice |
 | Oct 30th | Qualification Session & Head-to-Head tournament racing |
 | Oct 31th | Semi-Final & Final Racing |
 
