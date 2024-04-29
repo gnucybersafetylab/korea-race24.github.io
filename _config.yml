@@ -60,6 +60,6 @@ navigation:
     text: "Event"
     url: "bootcamp.html"
     section: "Event"
-    display: true
+    display: false
 
   
