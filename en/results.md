@@ -10,12 +10,12 @@ base_url: results.html
 
 | Ranking | Award | Team | Prize |
 |:---|:---|:---|:---|
-| Grand Pize | -- | -- | -- |
 | 1st Place Prize | -- | -- | -- |
 | 2nd Place Prize | -- | -- | -- |
 | 3rd Place Prize | -- | -- | -- |
 | 4th | -- | -- | -- |
 | 5th | -- | -- | -- |
+| 6th | -- | -- | -- |
 
 # Time Trial
 

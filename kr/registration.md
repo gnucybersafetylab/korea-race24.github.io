@@ -23,13 +23,13 @@ base_url: registration.html
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSeKVkevbnDWgko92LW1khAk2kdjgLBZxdTELK35DLuegoC_vQ/viewform" class="button">경주 참가 신청</a>
 </center>
 
-**일반 참가자 용**
+<!-- **일반 참가자 용**
 
 경주 관람신청 및 자세한 정보를 보려면 오리엔테이션 및 정보 세션에 등록하세요.
 
 <center class="actions">
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSf5aheoenohT5te_PutaAnLSBmPwK3EKB7EVOtFLEEu3Jk1gQ/viewform?usp=sf_link" class="button">일반 참가 신청</a>
-</center>
+</center> -->
 
 
 ---
@@ -42,8 +42,13 @@ base_url: registration.html
 
 만약 참가 신청을 했지만 아래 목록이 업데이트되지 않은 경우 f1tenth.korea@gmail.com로 문의하세요.
 
-| 팀명 | 소속 | 팀원 |
+| TEAM NAME | AFFILIATION | TEAM MEMBERS |
 |:---|:---|:---|
+||||
+||||
+
+
+
 <!-- | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
 | Tayo Eagles | 충북대학교 | 김건우, 김택림, 권도현 |
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |

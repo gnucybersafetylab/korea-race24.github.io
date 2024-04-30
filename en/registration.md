@@ -22,13 +22,13 @@ For race registration and more information, sign up to participate in orientatio
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSeKVkevbnDWgko92LW1khAk2kdjgLBZxdTELK35DLuegoC_vQ/viewform" class="button">Registration for a race</a>
 </center>
 
-A form for race observers
+<!-- A form for race observers
 
 If you want to observe without participating in the game, please registration through this link.
 
 <center class="actions">
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSf5aheoenohT5te_PutaAnLSBmPwK3EKB7EVOtFLEEu3Jk1gQ/viewform?usp=sf_link" class="button">Registration for a observation</a>
-</center>
+</center> -->
 
 
 ---
