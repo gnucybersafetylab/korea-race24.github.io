@@ -20,7 +20,7 @@ base_url: registration.html
 (Note : 팀원 중 1명은 [ICCAS2024](https://2024.iccas.org/)에 등록하셔야 참가 가능합니다.)
 
 <center class="actions">
-	<a href="https://docs.google.com/forms/d/1ycNog7lz3oYiwzHIJfmzt0CW0E1GGCBMy1FUQ7ij1AI/viewform?edit_requested=true" class="button">경주 참가 신청</a>
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSeKVkevbnDWgko92LW1khAk2kdjgLBZxdTELK35DLuegoC_vQ/viewform" class="button">경주 참가 신청</a>
 </center>
 
 **일반 참가자 용**
@@ -28,7 +28,7 @@ base_url: registration.html
 경주 관람신청 및 자세한 정보를 보려면 오리엔테이션 및 정보 세션에 등록하세요.
 
 <center class="actions">
-	<a href="https://docs.google.com/forms/d/1A6zPXR0jw3rSxlnkt_N6jV9zW4JCAKfkoEUlPsglXUU/viewform?edit_requested=true" class="button">일반 참가 신청</a>
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSf5aheoenohT5te_PutaAnLSBmPwK3EKB7EVOtFLEEu3Jk1gQ/viewform?usp=sf_link" class="button">일반 참가 신청</a>
 </center>
 
 
